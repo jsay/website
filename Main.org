@@ -13,6 +13,7 @@
 :END:
 #+HTML: <a target="_blank" rel="noopener noreferrer" href="index.pdf">[Click here for the .pdf version]</a>
 
+
 * Code for export                            :noexport:
 ** LaTeX
 
@@ -36,6 +37,22 @@
 (setq org-html-table-default-attributes
       '(:border "0" :cellspacing "0" :cellpadding "6" :rules "none" :frame "none"))
 #+end_src
+
+* Pense-bête                                 :noexport:
+
+  - change link from CESAER website
+
+* README                                     :noexport:
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: README
+  :END:
+** Structure
+
+   1. Modifications made on =Main.org=
+   2. Exported to =index.html= and =index.pdf= (see
+      =/emacs-config/repo/=)
+   3. =style.css= and =style.cls= are the custom templates
+
 
 * Contact Information
 
