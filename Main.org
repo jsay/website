@@ -17,7 +17,7 @@
 * Code for export                            :noexport:
 ** LaTeX
 
-#+begin_src emacs-lisp 
+#+begin_src emacs-lisp :eval yes :results silent
 (add-to-list 'org-latex-classes
 	     '("CuriVitae"
 	       "\\documentclass[11pt, a4paper]{./style}
@@ -33,7 +33,7 @@
 
 ** HTML
 
-#+begin_src emacs-lisp 
+#+begin_src emacs-lisp :eval yes :results silent
 (setq org-html-table-default-attributes
       '(:border "0" :cellspacing "0" :cellpadding "6" :rules "none" :frame "none"))
 #+end_src
