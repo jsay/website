@@ -13,7 +13,6 @@
 :END:
 #+HTML: <a target="_blank" rel="noopener noreferrer" href="index.pdf">[Click here for the .pdf version]</a>
 
-
 * Code for export                            :noexport:
 ** LaTeX
 
@@ -48,11 +47,6 @@
           <p class=\"date\">Css style file <a href=\"https://jsay.github.io/website/style.css\">here</a> (adapted from <a href=\"https://github.com/gongzhitaao/orgcss/blob/master/org.css\">orgcss</a>)</p>")))
 #+end_src
 
-* Pense-bête                                 :noexport:
-
-  - change link from CESAER website
-  - add the links for working papers
-
 * README                                     :noexport:
   :PROPERTIES:
   :EXPORT_FILE_NAME: README
@@ -66,7 +60,7 @@
 
 * Contact Information
 
-| *Phone:*     | 00.33.(0)6.20.59.67.06                           |
+| *Phone:*     | 00.33.(0)3.80.77.23.19                           |
 | *Email:*     | [[mailto:jsay@inra.fr][jsay-at-inra-dot-fr]]                              |
 | *Address:*   | [[http://www.inra.fr/en/Scientists-Students][Inra]], [[http://www.dijon.inra.fr/cesaer/en/axis/][UMR Cesaer]]                                 |
 |              | [[https://www.google.com/maps/?q%3D47.3097819,5.0644835][26 blvd Dr Petitjean]]                             |
