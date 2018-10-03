@@ -11,6 +11,7 @@
 #+HTML_HEAD: <base target="_blank">
 #+ATTR_HTML: :rules none
 :END:
+
 #+HTML: <a target="_blank" rel="noopener noreferrer" href="index.pdf">[Click here for the .pdf version]</a>
 
 * Code for export                            :noexport:
@@ -245,6 +246,7 @@
 
    Acta Oeconomica (1), Ecological Economics (2), Économie et
    Statistique (1), European Review of Agricultural Economics (2),
+   International Journal of Geographical Information Science (1),
    International Journal of Strategic Property Management (1), Journal
    of Environmental Management (3), Plos One (1), Regional Studies
    (1), Review of Agricultural, Food and Environmental Studies (1),
