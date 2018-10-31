@@ -98,6 +98,11 @@
 * Publications
 ** Refereed papers (in English)
 
+   - *Does issuing building permits reduce the cost of land? An
+     estimation based on the demand for building land in France* (with
+     Jean Cavailhès, Mohamed Hilal and Julie Le Gallo). /Economics and
+     Statistics/, 2018, 500-501-502, 45--67.  [ [[file:bib/PCPX.bib][bib]] ; [[file:doc/PCPX-FILE.pdf][file]] ; [[file:doc/PCPX-SUP.pdf][sup]] ;
+     [[https://insee.fr/en/statistiques/3621981?sommaire=3622133][link]] ]
    - *Nonlinear impact estimation in spatial autoregressive models*
      (with Kassoum Ayouba and Julie Le Gallo). /Economics Letters/,
      2018, 163: 59--64. [ [[file:bib/NLSP.bib][bib]] ; [[file:doc/NLSP-FILE.pdf][file]] ; [[file:doc/NLSP-SUP.pdf][sup]] ; [[https://www.sciencedirect.com/science/article/pii/S0165176517304846][link]] ]
@@ -134,13 +139,14 @@
 
    - *Délivrer des permis de construire pour diminuer le coût du
      foncier? Une estimation par la demande de terre constructible*
-     (with Jean Cavailhès, Mohamed Hilal and Julie Le Gallo).
-     /Économie et Statistiques/, 2018, under press. [ ]
+     (avec Jean Cavailhès, Mohamed Hilal et Julie Le Gallo).
+     /Économie et Statistiques/, 2018, 500-501-502, 45--67. [ [[file:bib/PCPXf.bib][bib]] ;
+     [[file:doc/PCPXf-FILE.pdf][file]] ; [[file:doc/PCPX-SUP.pdf][sup]] ; [[https://insee.fr/fr/statistiques/3621977?sommaire=3622116][link]] ; [[file:doc/PCPX-PRES.pdf][pres]] ]
    - *Information sur l'hétérogénéité de la terre et délégation de la
      régulation foncière.* /Revue d'Économie Politique/, 2015,
      125(3):453--474. [ [[file:bib/IFHT.bib][bib]] ; [[https://www.cairn.info/revue-d-economie-politique-2015-3-page-453.htm][link]] ]
    - *La gestion publique des ressources foncières: Entre évaluation
-     de la rareté et choix d'usage* (with Claude Napoléone). /Revue
+     de la rareté et choix d'usage* (avec Claude Napoléone). /Revue
      des Régions Arides/, 2013, 30(1):177--190. [ [[file:bib/GPRF.bib][bib]] ; [[https://www.researchgate.net/profile/Claude_Napoleone/publication/268075060_La_gestion_publique_des_ressources_foncieres_entre_evaluation_de_la_rarete_et_choix_d'usages/links/5460bdd20cf295b5616376de/La-gestion-publique-des-ressources-foncieres-entre-evaluation-de-la-rarete-et-choix-dusages.pdf][file]] ]
 
 ** Working papers
