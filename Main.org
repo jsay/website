@@ -140,8 +140,8 @@
    - *Délivrer des permis de construire pour diminuer le coût du
      foncier? Une estimation par la demande de terre constructible*
      (avec Jean Cavailhès, Mohamed Hilal et Julie Le Gallo).
-     /Économie et Statistiques/, 2018, 500-501-502, 45--67. [ [[file:bib/PCPXf.bib][bib]] ;
-     [[file:doc/PCPXf-FILE.pdf][file]] ; [[file:doc/PCPX-SUP.pdf][sup]] ; [[https://insee.fr/fr/statistiques/3621977?sommaire=3622116][link]] ; [[file:doc/PCPX-PRES.pdf][pres]] ]
+     /Économie et Statistiques/, 2018, 500-501-502, 45--67. [ [[file:doc/PCPXf-FILE.pdf][file]] ;
+     [[file:doc/PCPX-SUP.pdf][sup]] ; [[https://insee.fr/fr/statistiques/3621977?sommaire=3622116][link]] ; [[file:doc/PCPXf-PRES.pdf][pres]] ]
    - *Information sur l'hétérogénéité de la terre et délégation de la
      régulation foncière.* /Revue d'Économie Politique/, 2015,
      125(3):453--474. [ [[file:bib/IFHT.bib][bib]] ; [[https://www.cairn.info/revue-d-economie-politique-2015-3-page-453.htm][link]] ]
