@@ -100,8 +100,8 @@
 
    - *Bioeconomic impacts of agroforestry policies in France* (with
      Lauriane Mouysset, Claire Rais Assa, Frédéric Jiguet, Romain
-     Lorrilière, Luc Doyen). /Land Use Policy/, 2019, 85, 239--248.  [
-     [[file:bib/BIOFOR.bib][bib]] ; [[https://www.sciencedirect.com/science/article/abs/pii/S0264837718308160][link]] ]
+     Lorrilière, Luc Doyen). /Land Use Policy/, 2019, 85, 239--248.
+     [\nbsp{}[[file:bib/BIOFOR.bib][bib]] ; [[https://www.sciencedirect.com/science/article/abs/pii/S0264837718308160][link]] ]
    - *Does issuing building permits reduce the cost of land? An
      estimation based on the demand for building land in France* (with
      Jean Cavailhès, Mohamed Hilal and Julie Le Gallo). /Economics and
