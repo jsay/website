@@ -71,7 +71,7 @@
 
 * Professional experience
 
-| 2014 to now  | *Researcher* at INRA, [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]] Dijon         |
+| 2014 to now  | *Researcher* at INRAE, [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]] Dijon        |
 | 2013 to 2014 | *Research fellow* at INRA, [[https://www6.versailles-grignon.inrae.fr/economie_publique_eng/][UMR Éco Pub]] Paris   |
 | 2011 to 2013 | *Postdoctoral fellow* at CNRS, [[http://cesco.mnhn.fr/en][UMR Cesco]] Paris |
 
