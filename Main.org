@@ -12,6 +12,8 @@
 #+ATTR_HTML: :rules none
 :END:
 
+# Changer les nom des documents
+
 #+HTML: <a target="_blank" rel="noopener noreferrer" href="index.pdf">[Click here for the .pdf version]</a>
 
 * Code for export                            :noexport:
@@ -98,20 +100,20 @@
 * Publications
 ** Refereed papers (in English)
 
+   - *The informational content of geographical
+     indications*. /American Journal of Agricultural Economics/, 2021,
+     103(2): 523--542 [ [[file:bib/GEOIND.bib][bib]] ; [[file:doc/GEOIND-FILE.pdf][file]] ; [[file:doc/GEOIND-SUP.pdf][sup]] ; [[https://github.com/jsay/geoInd/][online]] ; [[https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12100][link]] ]
    - *Willingness-to-pay for reshuffling geographical indications*
      (with Monia Saïdi, Stéphan Marette and Christophe
-     Martin). /Journal of Wine Economics/, 2020, accepted [ [[file:bib/GEOIND.bib][bib]] ; [[file:doc/RFGI-FILE.pdf][file]]
-     ; [[file:doc/RFGI-SUP.pdf][sup]] ; [[https://github.com/jsay/reshufGI/][online]] ]
-   - *The informational content of geographical
-     indications*. /American Journal of Agricultural Economics/, 2020,
-     early view [ [[file:bib/GEOIND.bib][bib]] ; [[file:doc/GEOIND-FILE.pdf][file]] ; [[file:doc/GEOIND-SUP.pdf][sup]] ; [[https://github.com/jsay/geoInd/][online]] ; [[https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12100][link]] ]
+     Martin). /Journal of Wine Economics/, 2020, 15(1): 95--111 [ [[file:bib/RFGI.bib][bib]]
+     ; [[file:doc/RFGI-FILE.pdf][file]] ; [[file:doc/RFGI-SUP.pdf][sup]] ; [[https://github.com/jsay/reshufGI/][online]] ; [[https://www.cambridge.org/core/journals/journal-of-wine-economics/article/abs/willingnesstopay-for-reshuffling-geographical-indications/FD4DB1BCA54C1E204773BF861965BEBD][link]] ]
    - *Disease dispersion as a spatial interaction: The case of
      Flavescence Dorée* (with Estelle Gozlan). /Natural Resource
-     Modeling/, 2020, early view [ [[file:bib/SPFD.bib][bib]] ; [[file:doc/SPFD-FILE.pdf][file]] ; [[file:doc/SPFD-PRES.pdf][pres]] ; [[https://onlinelibrary.wiley.com/journal/19397445][link]] ]
+     Modeling/, 2020, 33:e12265 [ [[file:bib/SPFD.bib][bib]] ; [[file:doc/SPFD-FILE.pdf][file]] ; [[file:doc/SPFD-PRES.pdf][pres]] ; [[https://onlinelibrary.wiley.com/doi/full/10.1111/nrm.12265][link]] ]
    - *Bioeconomic impacts of agroforestry policies in France* (with
      Lauriane Mouysset, Claire Rais Assa, Frédéric Jiguet, Romain
-     Lorrilière, Luc Doyen). /Land Use Policy/, 2019, 85, 239--248.
-     [\nbsp{}[[file:bib/BIOFOR.bib][bib]] ; [[https://www.sciencedirect.com/science/article/abs/pii/S0264837718308160][link]] ]
+     Lorrilière, Luc Doyen). /Land Use Policy/, 2019, 85: 239--248.  [
+     [[file:bib/BIOFOR.bib][bib]] ; [[https://www.sciencedirect.com/science/article/abs/pii/S0264837718308160][link]] ]
    - *Does issuing building permits reduce the cost of land? An
      estimation based on the demand for building land in France* (with
      Jean Cavailhès, Mohamed Hilal and Julie Le Gallo). /Economics and
@@ -151,6 +153,8 @@
 
 ** Refereed papers (in French)
 
+   - *Les déterminants naturels et politiques des AOC viticoles de
+     Côte-d’Or* (avec Mohamed Hilal). /CyberGéo/, accepté 2021.
    - *Vers une évaluation des coûts de la dégradation des sols :
      Éléments de cadrage, outil d'analyse et études de cas* (avec
      Noémie Pousse, Laurent Rigou et Laurent Thannberger). /Étude et
@@ -169,6 +173,12 @@
 
 ** Working papers
 
+   - *Les consommateurs face à l’évolution des Appellations d’Origine
+     Contrôlée* (avec Monia Saïdi, Stéphan Marette and Christophe
+     Martin). /INRAE Sciences Sociales/, 2020, [ [[https://ageconsearch.umn.edu/record/305806][link]] ]
+   - *The drivers of spatial cropping patterns in Burgundy* (with
+     Valentin Bellassen and Mohamed Hilal). /UMR CESAER Working Papers
+     2020-1/, 2020, [ [[https://hal.inrae.fr/hal-02894116][link]] ]
    - *A bio-economic analysis for land-uses and biodiversity in
      metropolitan France* (with Lauriane Mouysset, Claire Rais Assa,
      Frédéric Jiguet, Romain Lorrilière and Luc Doyen). /Cahiers du
@@ -184,24 +194,23 @@
      Latruffe). /Factor Markets Working Papers/, 2013 [ [[http://www.ceps.be/book/empirical-content-present-value-model-survey-instrumental-uses-farmland-prices.html][link]] ]
    - *La valeur des attributs naturels des terres agricoles de
      Côte-d'Or* (with Jean-Marc Brayer, Jean Cavailhès, Pierre Curmi,
-     Mohamed Hilal and Marjorie Ubertosi). /INRA UMR CESAER Working
-     Papers 2012-1/, 2012 [ [[http://ideas.repec.org/p/ceo/wpaper/33.html][link]] ]
+     Mohamed Hilal and Marjorie Ubertosi). /UMR CESAER Working Papers
+     2012-1/, 2012 [ [[http://ideas.repec.org/p/ceo/wpaper/33.html][link]] ]
    - *Informations sur le foncier agricole pour contribuer à la
-     gestion de l'eau*. /INRA UMR CESAER Working Papers 2011-6/, 2011
-     [ [[http://ideas.repec.org/p/ceo/wpaper/32.html][link]] ]
+     gestion de l'eau*. /UMR CESAER Working Papers 2011-6/, 2011 [
+     [[http://ideas.repec.org/p/ceo/wpaper/32.html][link]] ]
    - *Hétérogénéité de la terre et rareté économique*. /PhD thesis,
      INRA and Université de Bourgogne/, 2011, [ [[http://tel.archives-ouvertes.fr/tel-00629142/en/][link]] ] 
 
 ** Current papers
 
-   - *Hedonic valuation of geographical indications with unobserved
-     terroir effects*. With Julie Le Gallo.
+   - *The signaling values of nested wine names*. With Julie Le Gallo.
    - *A new method to estimate price-elasticity on wine markets*. With
-     Julie Le Gallo.
+     Julie Le Gallo. 
    - *La capitalisation du prix des vins dans le prix des
      vignes*. With Abdoul Diallo and Hai-Vu Pham.
-   - *Compliance with compulsory treatments.* With Estelle Gozlan and
-     Emmanuel Paroissien.
+   - *Imperfect compliance with compulsory treatments.* With Estelle
+     Gozlan and Emmanuel Paroissien.
 
 * Communications
 
@@ -260,8 +269,8 @@
 
 | *Course*          | *Place*                | *Hours* | *Formation*   | *Period*             |
 |-------------------+------------------------+---------+---------------+----------------------|
-| Econometrics      | SciencesPo Dijon       |      24 | Undergraduate | 2018--2020 (2 year)  |
-| Economics         | SciencesPo Dijon       |      48 | Undergraduate | 2016--2020 (4 years) |
+| Econometrics      | SciencesPo Dijon       |      24 | Undergraduate | 2018--2021 (3 year)  |
+| Economics         | SciencesPo Dijon       |      48 | Undergraduate | 2016--2021 (5 years) |
 | Econometrics      | AgroParisTech          |      24 | Postgraduate  | 2012--2017 (5 years) |
 | Econometrics      | Univ. of Franche-Comté |      18 | Postgraduate  | 2012--2017 (5 years) |
 | Microeconometrics | Univ. of Burgundy      |      14 | Undergraduate | 2010--2011 (1 year)  |
@@ -272,7 +281,7 @@
 
    Acta Oeconomica (1), Ecological Economics (2), Économie et
    Statistique (2), Économie Rurale (2), European Review of
-   Agricultural Economics (2), International Journal of Geographical
+   Agricultural Economics (3), International Journal of Geographical
    Information Science (1), International Journal of Strategic
    Property Management (1), Journal of Environmental Management (3),
    Plos One (1), Regional Studies (1), Review of Agricultural, Food
