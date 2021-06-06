@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-05-28 ven. 16:59 -->
+<!-- 2021-06-06 dim. 17:06 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Jean-Sauveur Ay</title>
@@ -40,7 +40,7 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
+    overflow: auto;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -52,7 +52,7 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
@@ -196,50 +196,26 @@
 <link rel="stylesheet" type="text/css" href="style.css"/>
 <base target="_blank">
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2018 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
@@ -248,9 +224,9 @@ for the JavaScript code in this tag.
 
 <a target="_blank" rel="noopener noreferrer" href="index.pdf">[Click here for the .pdf version]</a>
 
-<div id="outline-container-org3fd9cce" class="outline-2">
-<h2 id="org3fd9cce">Contact Information</h2>
-<div class="outline-text-2" id="text-org3fd9cce">
+<div id="outline-container-org3deedcc" class="outline-2">
+<h2 id="org3deedcc">Contact Information</h2>
+<div class="outline-text-2" id="text-org3deedcc">
 <table border="0" cellspacing="0" cellpadding="6" rules="none" frame="none">
 
 
@@ -277,7 +253,7 @@ for the JavaScript code in this tag.
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left"><a href="https://www.google.com/maps/?q=47.3097819,5.0644835">26 blvd Dr Petitjean</a></td>
+<td class="org-left"><a href="https://www.google.com/maps/?q%3D47.3097819,5.0644835">26 blvd Dr Petitjean</a></td>
 </tr>
 
 <tr>
@@ -294,9 +270,9 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org6003b21" class="outline-2">
-<h2 id="org6003b21">Professional experience</h2>
-<div class="outline-text-2" id="text-org6003b21">
+<div id="outline-container-org7a5f4f0" class="outline-2">
+<h2 id="org7a5f4f0">Professional experience</h2>
+<div class="outline-text-2" id="text-org7a5f4f0">
 <table border="0" cellspacing="0" cellpadding="6" rules="none" frame="none">
 
 
@@ -325,9 +301,9 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-org07cee2b" class="outline-2">
-<h2 id="org07cee2b">Education</h2>
-<div class="outline-text-2" id="text-org07cee2b">
+<div id="outline-container-org078a290" class="outline-2">
+<h2 id="org078a290">Education</h2>
+<div class="outline-text-2" id="text-org078a290">
 <table border="0" cellspacing="0" cellpadding="6" rules="none" frame="none">
 
 
@@ -356,9 +332,9 @@ for the JavaScript code in this tag.
 </div>
 </div>
 
-<div id="outline-container-orgf4eec00" class="outline-2">
-<h2 id="orgf4eec00">Research interest</h2>
-<div class="outline-text-2" id="text-orgf4eec00">
+<div id="outline-container-orge25837e" class="outline-2">
+<h2 id="orge25837e">Research interest</h2>
+<div class="outline-text-2" id="text-orge25837e">
 <dl class="org-dl">
 <dt>Land Economics</dt><dd>Land use choices and land price patterns in
 relation to agricultural, environmental and
@@ -375,13 +351,13 @@ predictions, discrete choice models.</dd>
 </div>
 </div>
 
-<div id="outline-container-orge68146e" class="outline-2">
-<h2 id="orge68146e">Publications</h2>
-<div class="outline-text-2" id="text-orge68146e">
+<div id="outline-container-orge1d03b0" class="outline-2">
+<h2 id="orge1d03b0">Publications</h2>
+<div class="outline-text-2" id="text-orge1d03b0">
 </div>
-<div id="outline-container-org0de9d91" class="outline-3">
-<h3 id="org0de9d91">Refereed papers (in English)</h3>
-<div class="outline-text-3" id="text-org0de9d91">
+<div id="outline-container-org9d30343" class="outline-3">
+<h3 id="org9d30343">Refereed papers (in English)</h3>
+<div class="outline-text-3" id="text-org9d30343">
 <ul class="org-ul">
 <li><b>The informational content of geographical
 indications</b>. <i>American Journal of Agricultural Economics</i>, 2021,
@@ -437,9 +413,9 @@ Regional Science</i>, 2012, 51(5):967&#x2013;986. [ <a href="bib/SPHED.bib">bib<
 </div>
 </div>
 
-<div id="outline-container-orgd90d52c" class="outline-3">
-<h3 id="orgd90d52c">Refereed papers (in French)</h3>
-<div class="outline-text-3" id="text-orgd90d52c">
+<div id="outline-container-org61412d1" class="outline-3">
+<h3 id="org61412d1">Refereed papers (in French)</h3>
+<div class="outline-text-3" id="text-org61412d1">
 <ul class="org-ul">
 <li><b>Les déterminants naturels et politiques des AOC viticoles de
 Côte-d’Or</b> (avec Mohamed Hilal). <i>CyberGéo</i>, 2021. [ <a href="bib/DNPA.bib">bib</a> ; <a href="https://journals.openedition.org/cybergeo/36443#authors">link</a> ]</li>
@@ -462,9 +438,9 @@ des Régions Arides</i>, 2013, 30(1):177&#x2013;190. [ <a href="bib/GPRF.bib">bi
 </div>
 </div>
 
-<div id="outline-container-org2af458f" class="outline-3">
-<h3 id="org2af458f">Current papers</h3>
-<div class="outline-text-3" id="text-org2af458f">
+<div id="outline-container-org844185e" class="outline-3">
+<h3 id="org844185e">Current papers</h3>
+<div class="outline-text-3" id="text-org844185e">
 <ul class="org-ul">
 <li><b>The signaling values of nested wine names</b>. With Julie Le
 Gallo. [ <a href="https://wine-economics.org/wp-content/uploads/2021/05/AAWE_WP265.pdf">wp</a> ]</li>
@@ -477,9 +453,9 @@ Gozlan and Emmanuel Paroissien.</li>
 </div>
 </div>
 
-<div id="outline-container-org30c9799" class="outline-3">
-<h3 id="org30c9799">Working papers</h3>
-<div class="outline-text-3" id="text-org30c9799">
+<div id="outline-container-orga27dd37" class="outline-3">
+<h3 id="orga27dd37">Working papers</h3>
+<div class="outline-text-3" id="text-orga27dd37">
 <ul class="org-ul">
 <li><b>Les consommateurs face à l’évolution des Appellations d’Origine
 Contrôlée</b> (avec Monia Saïdi, Stéphan Marette and Christophe
@@ -501,9 +477,9 @@ INRA and Université de Bourgogne</i>, 2011, [ <a href="http://tel.archives-ouve
 </div>
 </div>
 
-<div id="outline-container-org0e120a3" class="outline-2">
-<h2 id="org0e120a3">Communications</h2>
-<div class="outline-text-2" id="text-org0e120a3">
+<div id="outline-container-orgbc1fe79" class="outline-2">
+<h2 id="orgbc1fe79">Communications</h2>
+<div class="outline-text-2" id="text-orgbc1fe79">
 <dl class="org-dl">
 <dt>2021</dt><dd><b>Journées INRAE&#x2013;SFER&#x2013;CIRAD</b> (March, France) ; <b>Atelier
 Vin et Société</b> (Institut d’études avancées de Paris)</dd>
@@ -548,13 +524,13 @@ France).</dd>
 </div>
 </div>
 
-<div id="outline-container-orgccd0c09" class="outline-2">
-<h2 id="orgccd0c09">Other activities</h2>
-<div class="outline-text-2" id="text-orgccd0c09">
+<div id="outline-container-orgafa2556" class="outline-2">
+<h2 id="orgafa2556">Other activities</h2>
+<div class="outline-text-2" id="text-orgafa2556">
 </div>
-<div id="outline-container-org812aba8" class="outline-3">
-<h3 id="org812aba8">Research programs</h3>
-<div class="outline-text-3" id="text-org812aba8">
+<div id="outline-container-orgee4edfb" class="outline-3">
+<h3 id="orgee4edfb">Research programs</h3>
+<div class="outline-text-3" id="text-orgee4edfb">
 <ul class="org-ul">
 <li><a href="http://www.ubfc.fr/pubprivlands/">PubPrivLands</a> (2019-2021) funded by <i>Région Bourgogne
 Franche-Comté (ISIT-BFC)</i></li>
@@ -569,9 +545,9 @@ program</li>
 </div>
 </div>
 
-<div id="outline-container-orgb0597d1" class="outline-3">
-<h3 id="orgb0597d1">Teaching experience</h3>
-<div class="outline-text-3" id="text-orgb0597d1">
+<div id="outline-container-org56cb336" class="outline-3">
+<h3 id="org56cb336">Teaching experience</h3>
+<div class="outline-text-3" id="text-org56cb336">
 <table border="0" cellspacing="0" cellpadding="6" rules="none" frame="none">
 
 
@@ -640,9 +616,9 @@ program</li>
 </div>
 </div>
 
-<div id="outline-container-orgcb3b5ad" class="outline-3">
-<h3 id="orgcb3b5ad">Referee reports</h3>
-<div class="outline-text-3" id="text-orgcb3b5ad">
+<div id="outline-container-org79de360" class="outline-3">
+<h3 id="org79de360">Referee reports</h3>
+<div class="outline-text-3" id="text-org79de360">
 <p>
 Acta Oeconomica (1), Ecological Economics (2), Économie et
 Statistique (2), Économie Rurale (2), European Review of
@@ -657,9 +633,9 @@ Spatial Statistics (1), Sustainability (1).
 </div>
 </div>
 
-<div id="outline-container-org81f4366" class="outline-3">
-<h3 id="org81f4366">Miscellaneous</h3>
-<div class="outline-text-3" id="text-org81f4366">
+<div id="outline-container-orgb47528c" class="outline-3">
+<h3 id="orgb47528c">Miscellaneous</h3>
+<div class="outline-text-3" id="text-orgb47528c">
 <ul class="org-ul">
 <li>Consultant and Expert for INAO, the French National Institute of
 the Signs of Quality and Origin.</li>
@@ -678,8 +654,8 @@ Econometrics and Statistics.</li>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="date">Last modification: 2021-05-28 ven. 16:59 </p>
- <p class="date">Generated by <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.3 (<a href="https://orgmode.org">Org</a> mode 9.2) </p>
+<p class="date">Last modification: 2021-06-06 dim. 17:06 </p>
+ <p class="date">Generated by <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.3 (<a href="https://orgmode.org">Org</a> mode 9.4.4) </p>
           <p class="date">Css style file <a href="https://jsay.github.io/website/style.css">here</a> (adapted from <a href="https://gongzhitaao.org/orgcss/org.css">orgcss</a>)</p>
 </div>
 </body>
