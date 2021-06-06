@@ -1,6 +1,7 @@
 #+TITLE:            Jean-Sauveur Ay
 #+AUTHOR:           jsay@inra.fr
 #+EXPORT_FILE_NAME: index
+#+STARTUP:          fold
 #+LaTeX_CLASS:      CuriVitae
 #+OPTIONS:          LaTeX:t tags:nil num:nil H:5 toc:nil html-postamble:t
 #+LANGUAGE:         en
