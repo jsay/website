@@ -101,6 +101,15 @@
 * Publications
 ** Refereed papers (in English)
 
+   - *Climate-dependent scenarios of land use for biodiversity and
+     ecosystem services in the New Aquitaine region* (with
+     N. A. Andriamanantena, C. Gaufreteau and L. Doyen) /Revision for
+     Regional Environmental Change/.
+   - *Field and landscape risk factors impacting Flavescence dorée
+     infection:* *Insights from spatial Bayesian modelling in the
+     Bordeaux vineyards* (with H. K. Adrakey, S. Malembic-Maher,
+     A. Rusch, L. Riley, L. Ramalanjaona and
+     F. Fabre). /Phytopatology/, 2022, in press [ [[file:bib/MDFD.bib][bib]] ; [[file:doc/MDFD-FILE.pdf][file]] ; [[https://apsjournals.apsnet.org/doi/10.1094/PHYTO-10-21-0449-R][link]] ]
    - *The informational content of geographical
      indications*. /American Journal of Agricultural Economics/, 2021,
      103(2): 523--542 [ [[file:bib/GEOIND.bib][bib]] ; [[file:doc/GEOIND-FILE.pdf][file]] ; [[file:doc/GEOIND-SUP.pdf][sup]] ; [[https://github.com/jsay/geoInd/][online]] ; [[https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12100][link]] ]
@@ -154,6 +163,9 @@
 
 ** Refereed papers (in French)
 
+   - *La capitalisation du prix des vins dans le prix des vignes en
+     Côte-d’Or* (avec Abdoul Diallo et Hai-Vu Pham). /Revue
+     Économique/, 2022 /accepted/. [ [[file:bib/DNPA.bib][bib]] ; [[file:doc/VINPX-FILE.pdf][file]] ]
    - *Les déterminants naturels et politiques des AOC viticoles de
      Côte-d’Or* (avec Mohamed Hilal). /CyberGéo/, 2021. [ [[file:bib/DNPA.bib][bib]] ; [[https://journals.openedition.org/cybergeo/36443#authors][link]] ]
    - *Vers une évaluation des coûts de la dégradation des sols :
@@ -174,13 +186,18 @@
 
 ** Current papers
 
-   - *The signaling values of nested wine names*. With Julie Le
+   - *The signaling values of nested wine names.* With Julie Le
      Gallo. [ [[https://wine-economics.org/wp-content/uploads/2021/05/AAWE_WP265.pdf][wp]] ] 
-   - *Des prix des vignes déconnectésdes prix des vins ? Des effets de
-     gamme mais peu de spéculation*. With Abdoul Diallo and Hai-Vu
-     Pham. [ [[https://www2.dijon.inrae.fr/cesaer/wp-content/uploads/2021/05/WP_AY_DIALLO_PHAM.pdf][wp]] ]
-   - *Imperfect compliance with compulsory treatments.* With Estelle
-     Gozlan and Emmanuel Paroissien.
+   - *The high cost of noncompliance with mandatory pest control.*
+     With Estelle Gozlan and Emmanuel Paroissien. [ [[file:doc/RISCA-FILE.pdf][file]] ]
+   - *Announcement Effect from Undergrounding High Voltage Overhead
+     Transmission Lines:* *Quasi-experimental Evidence from Rural
+     France.* With Tina Rambonilaza and Jean Dubé. 
+   - *Socio-spatial Distribution of Housing Wealth and Capital Gains:
+     Evidence from a French Region Over the Last 50 Years.* With
+     Thibault Le Corre.
+   - *Impact Evaluation of Policies Supporting Homeownership: Evidence
+     from France.* With Rémi Lei, Olivier Dupré and Julie Le Gallo.
 
 ** Working papers
 
@@ -203,48 +220,52 @@
 * Communications
 
   - 2021 :: *Journées INRAE--SFER--CIRAD* (March, France) ; *Atelier
-            Vin et Société* (Institut d’études avancées de Paris)
+    Vin et Société* (Institut d’études avancées de Paris) ; *Séminaire
+    SMART-LERECO* (October, Rennes, France).
   - 2020 :: *Séminaire Vigne et Vins* (March, Dijon, France).
   - 2019 :: *World Conference on Natural Resource Modeling* (May,
-            Montréal, Canada) ; *Transmission du Patrimoine Viticole
-            en Bourgogne* (June, Beaune, France)
+    Montréal, Canada) ; *Transmission du Patrimoine Viticole en
+    Bourgogne* (June, Beaune, France)
   - 2018 :: *Séminaire LARESS à l'ESA* (April, Angers, France) ;
-            *Journées Ingé plus* (April, Dijon, France).
+    *Journées Ingé plus* (April, Dijon, France).
   - 2017 :: *Ministère de l'écologie* (March, Paris, France) ;
-            *Séminaire du LEF* (March, Nancy, France) ; *Vineyard Data
-            Quantification Society* (May, Colmar, France) ; *Spatial
-            Econometrics Workshop* (May, Avignon, France) ; *Société
-            Française d'Écologie* (October, Marseille, France) ;
-            *Séminaire du LAMETA* (December, Montpellier, France) ;
-            *Journée du département SAE2* (December, Paris, France).
+    *Séminaire du LEF* (March, Nancy, France) ; *Vineyard Data
+    Quantification Society* (May, Colmar, France) ; *Spatial
+    Econometrics Workshop* (May, Avignon, France) ; *Société Française
+    d'Écologie* (October, Marseille, France) ; *Séminaire du LAMETA*
+    (December, Montpellier, France) ; *Journée du département SAE2*
+    (December, Paris, France).
   - 2015 :: *Salon International de l'Agriculture* (February, Paris,
-            France) ; *Wine seminar at Kedge School of Business* (May,
-            Bordeaux, France) ; *American Association of Wine
-            Economists* (May, Mendoza, Argentina) ; *Natural Resource
-            Modelling workshop* (June, Bordeaux, France) ; *TRUSTEE
-            General Meeting* (October, Malmoe, Swedish) ; *Dialogues
-            Interdisciplinaires*, (December, Dijon, France).
+    France) ; *Wine seminar at Kedge School of Business* (May,
+    Bordeaux, France) ; *American Association of Wine Economists*
+    (May, Mendoza, Argentina) ; *Natural Resource Modelling workshop*
+    (June, Bordeaux, France) ; *TRUSTEE General Meeting* (October,
+    Malmoe, Swedish) ; *Dialogues Interdisciplinaires*, (December,
+    Dijon, France).
   - 2014 :: *Global Land Project Science meeting* (March, Berlin,
-            Germany) ; *Métaprogramme INRA ACCAF* (December, Orléans,
-            France).
+    Germany) ; *Métaprogramme INRA ACCAF* (December, Orléans, France).
   - 2013 :: *VII Conference of Spatial Econometrics Association*
-            (July, Washington, USA) ; *Internal Seminary CRESE*,
-            (October, Besançon, France) ; *Global Change Adaptation*,
-            (November, Clermont-Ferrand, France) ; *Journées
-            INRA--SFER--CIRAD* (December, Angers, France).
+    (July, Washington, USA) ; *Internal Seminary CRESE*, (October,
+    Besançon, France) ; *Global Change Adaptation*, (November,
+    Clermont-Ferrand, France) ; *Journées INRA--SFER--CIRAD*
+    (December, Angers, France).
   - 2012 :: *Planning, Law and Property Rights* (February, Belfast,
-            United Kingdom) ; *Workshop Spatial Econometrics and
-            Statistics* (November, Avignon, France) ; *Journées
-            INRA--SFER--CIRAD* (December, Toulouse, France).
+    United Kingdom) ; *Workshop Spatial Econometrics and Statistics*
+    (November, Avignon, France) ; *Journées INRA--SFER--CIRAD*
+    (December, Toulouse, France).
   - 2010 :: *Internal Seminary Ecodéveloppement* (October, Avignon,
-            France).
+    France).
   - 2009 :: *EAAE Ph.D. Workshop* (September, Giessen, Germany) ;
-            *Journées d'Étude des Sols* (May, Strasbourg, France).
+    *Journées d'Étude des Sols* (May, Strasbourg, France).
   - 2008 :: *Journées INRA--SFER--CIRAD* (December, Lille, France).
 
 * Other activities
 ** Research programs
 
+   - SERENA (2022-2025) funded by EJP SOIL, European Joint Program
+   - LOCUS (2022-2025) funded by ANR, /Agence Nationale de la
+     Recherche/
+   - OMISEP (2022-2024) funded by /ADEME/
    - [[http://www.ubfc.fr/pubprivlands/][PubPrivLands]] (2019-2021) funded by /Région Bourgogne
      Franche-Comté (ISIT-BFC)/
    - [[https://www.plan-deperissement-vigne.fr/travaux-de-recherche/programmes-de-recherche/risca][Risca]] (2019-2021) funded by /Plan National Dépérissement du
@@ -259,7 +280,7 @@
 
 | *Course*          | *Place*                | *Hours* | *Formation*   | *Period*             |
 |-------------------+------------------------+---------+---------------+----------------------|
-| Econometrics      | SciencesPo Dijon       |      24 | Undergraduate | 2018--2021 (3 year)  |
+| Econometrics      | SciencesPo Dijon       |      24 | Undergraduate | 2018--2022 (4 years) |
 | Economics         | SciencesPo Dijon       |      48 | Undergraduate | 2016--2021 (5 years) |
 | Econometrics      | AgroParisTech          |      24 | Postgraduate  | 2012--2017 (5 years) |
 | Econometrics      | Univ. of Franche-Comté |      18 | Postgraduate  | 2012--2017 (5 years) |
