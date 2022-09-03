@@ -66,7 +66,7 @@
 | *Phone:*     | 00.33.(0)3.80.77.23.19                                 |
 | *Email:*     | [[mailto:jean-sauveur.ay@inrae.fr][jean-sauveur.ay-at-inrae-dot-fr]]                        |
 | *Address:*   | [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], [[https://www.google.com/maps/?q%3D47.3097819,5.0644835][26 blvd Dr Petitjean]], [[https://www.google.com/maps/place/21000+Dijon/][21000 Dijon (France)]] |
-| *Web pages:* | [[https://www2.dijon.inrae.fr/cesaer/membres/jean-sauveur-ay/][Cesaer]] / [[http://github.com/jsay/][GitHub]] / [[https://ideas.repec.org/e/pay77.html][RePEc]] / [[https://www.researchgate.net/profile/Jean_Sauveur_Ay][ResearchGate]] / [[https://scholar.google.fr/citations?user=arEwxlIAAAAJ&hl=fr][Scholar]]       |
+| *Web pages:* | [[http://github.com/jsay/][GitHub]] / [[https://www2.dijon.inrae.fr/cesaer/membres/jean-sauveur-ay/][Official]]
 
 * Professional experience
 
