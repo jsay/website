@@ -1,5 +1,5 @@
-#+TITLE:            Jean-Sauveur Ay
-#+AUTHOR:           jsay@inra.fr
+#+TITLE:                Jean-Sauveur Ay
+#+AUTHOR:               jsay@inra.fr
 #+EXPORT_FILE_NAME: index
 #+STARTUP:          fold
 #+LaTeX_CLASS:      CuriVitae
@@ -12,8 +12,6 @@
 #+HTML_HEAD: <base target="_blank">
 #+ATTR_HTML: :rules none
 :END:
-
-# Changer les nom des documents
 
 #+HTML: <a target="_blank" rel="noopener noreferrer" href="index.pdf">[Click here for the .pdf version]</a>
 
@@ -57,7 +55,7 @@
   :END:
 ** Use
 
-   1. Modifications are made only on the file =Main.org=
+   1. Modifications only made on the file =Main.org=
    2. The data are exported to =index.html= and =index.pdf= (see
       =/emacs-config/= repository)
    3. =style.css= and =style.cls= are custom templates for html and
@@ -65,51 +63,66 @@
 
 * Contact Information
 
-| *Phone:*     | 00.33.(0)3.80.77.23.19                           |
-| *Email:*     | [[mailto:jean-sauveur.ay@inrae.fr][jean-sauveur.ay-at-inrae-dot-fr]]                  |
-| *Address:*   | [[https://www.inrae.fr/en/about-us][Inrae]], [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]]                                |
-|              | [[https://www.google.com/maps/?q%3D47.3097819,5.0644835][26 blvd Dr Petitjean]]                             |
-|              | [[https://www.google.com/maps/place/21000+Dijon/][21000 Dijon (France)]]                             |
-| *Web pages:* | [[https://www2.dijon.inrae.fr/cesaer/membres/jean-sauveur-ay/][Cesaer]] / [[http://github.com/jsay/][GitHub]] / [[https://ideas.repec.org/e/pay77.html][RePEc]] / [[https://www.researchgate.net/profile/Jean_Sauveur_Ay][ResearchGate]] / [[https://scholar.google.fr/citations?user=arEwxlIAAAAJ&hl=fr][Scholar]] |
+| *Phone:*     | 00.33.(0)3.80.77.23.19                                 |
+| *Email:*     | [[mailto:jean-sauveur.ay@inrae.fr][jean-sauveur.ay-at-inrae-dot-fr]]                        |
+| *Address:*   | [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], [[https://www.google.com/maps/?q%3D47.3097819,5.0644835][26 blvd Dr Petitjean]], [[https://www.google.com/maps/place/21000+Dijon/][21000 Dijon (France)]] |
+| *Web pages:* | [[https://www2.dijon.inrae.fr/cesaer/membres/jean-sauveur-ay/][Cesaer]] / [[http://github.com/jsay/][GitHub]] / [[https://ideas.repec.org/e/pay77.html][RePEc]] / [[https://www.researchgate.net/profile/Jean_Sauveur_Ay][ResearchGate]] / [[https://scholar.google.fr/citations?user=arEwxlIAAAAJ&hl=fr][Scholar]]       |
 
 * Professional experience
 
-| 2014 to now  | *Researcher* at INRAE, [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]] Dijon        |
-| 2013 to 2014 | *Research fellow* at INRA, [[https://www6.versailles-grignon.inrae.fr/economie_publique_eng/][UMR Éco Pub]] Paris   |
-| 2011 to 2013 | *Postdoctoral fellow* at CNRS, [[http://cesco.mnhn.fr/en][UMR Cesco]] Paris |
+| 2014 to now  | *Researcher* at INRAE, [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], Dijon       |
+| 2013 to 2014 | *Research fellow* at INRA, [[https://www6.versailles-grignon.inrae.fr/economie_publique_eng/][UMR Éco Pub]], Paris  |
+| 2011 to 2013 | *Postdoctoral fellow* at CNRS, [[http://cesco.mnhn.fr/en][UMR Cesco]], Paris |
 
 * Education
 
 | 2008 to 2011 | *PhD in Economics* at INRA and [[http://en.u-bourgogne.fr/][Université de Bourgogne]] |
 | 2007 to 2008 | *MA in Economics* at [[https://www.parisschoolofeconomics.eu/en/][PSE, Paris School of Economics]]    |
-| 2005 to 2007 | *MA in Economics* at [[https://www.amse-aixmarseille.fr/en][Université Aix-Marseille II]]       |
+| 2005 to 2008 | *MA in Economics* at [[https://www.amse-aixmarseille.fr/en][Université Aix-Marseille II]]       |
 
 * Research interest
 
   - Land Economics :: Land use choices and land price patterns in
-                      relation to agricultural, environmental and
-                      urban outcomes. Impacts of public policies
-                      related to land use and land prices.
+    relation to agricultural, environmental and urban
+    outcomes. Impacts of public policies related to land use and land
+    prices.
   - Wine Economics :: Consumers' preferences for wine characteristics,
-                      vineyard prices in relation to geographical
-                      indications and environmental factors. Impacts
-                      of public policies related to the wine sector.
+    vineyard prices in relation to geographical indications and
+    environmental factors. Impacts of public policies related to the
+    wine sector.
   - Applied Econometrics :: Spatial econometrics, geographically
-       weighted regression, treatment effects, best unbiased
-       predictions, discrete choice models.
-       
+    weighted regression, causal inference, best unbiased predictions,
+    discrete choice models.
+
+* Current papers
+
+   - *The signaling values of nested wine names* (with Julie Le
+     Gallo) [ [[https://wine-economics.org/wp-content/uploads/2021/05/AAWE_WP265.pdf][wp]] ] 
+   - *The cost of noncompliance: Evidence from mandatory control of a
+     quarantine pest in French vineyards* (with Estelle Gozlan and
+     Emmanuel Paroissien) [ [[file:doc/RISCA-FILE.pdf][file]] ]
+   - *Announcement effect from undergrounding high voltage overhead
+     transmission lines:* *Quasi-experimental evidence from rural
+     France* (with Tina Rambonilaza and Jean Dubé) [ [[file:doc/HVTOL-FILE.pdf][file]] ]
+   - *Socio-spatial distribution of housing wealth and capital gains*
+     (with Thibault Le Corre)
+   - *The extensive and intensive margins of homeownership* (with Rémi
+     Lei, Olivier Dupré and Julie Le Gallo)
+
 * Publications
 ** Refereed papers (in English)
 
    - *Climate-dependent scenarios of land use for biodiversity and
      ecosystem services in the New Aquitaine region* (with
-     N. A. Andriamanantena, C. Gaufreteau and L. Doyen) /Revision for
-     Regional Environmental Change/.
+     N. A. Andriamanantena, C. Gaufreteau and L. Doyen) /Regional
+     Environmental Change/, 2022, 22(3): 1--15 [ [[file:bib/MDFD.bib][bib]] ; [[file:doc/CDSA-FILE.pdf][file]] ; [[file:doc/CDSA-SUP.pdf][sup]] ;
+     [[https://link.springer.com/article/10.1007/s10113-022-01964-6][link]] ].
    - *Field and landscape risk factors impacting Flavescence dorée
      infection:* *Insights from spatial Bayesian modelling in the
      Bordeaux vineyards* (with H. K. Adrakey, S. Malembic-Maher,
      A. Rusch, L. Riley, L. Ramalanjaona and
-     F. Fabre). /Phytopatology/, 2022, in press [ [[file:bib/MDFD.bib][bib]] ; [[file:doc/MDFD-FILE.pdf][file]] ; [[https://apsjournals.apsnet.org/doi/10.1094/PHYTO-10-21-0449-R][link]] ]
+     F. Fabre). /Phytopatology/, 2022, 112(8): 1686--1697 [ [[file:bib/MDFD.bib][bib]] ; [[file:doc/MDFD-FILE.pdf][file]]
+     ; [[https://apsjournals.apsnet.org/doi/10.1094/PHYTO-10-21-0449-R][link]] ]
    - *The informational content of geographical
      indications*. /American Journal of Agricultural Economics/, 2021,
      103(2): 523--542 [ [[file:bib/GEOIND.bib][bib]] ; [[file:doc/GEOIND-FILE.pdf][file]] ; [[file:doc/GEOIND-SUP.pdf][sup]] ; [[https://github.com/jsay/geoInd/][online]] ; [[https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12100][link]] ]
@@ -167,11 +180,12 @@
      Côte-d’Or* (avec Abdoul Diallo et Hai-Vu Pham). /Revue
      Économique/, 2022 /accepted/. [ [[file:bib/DNPA.bib][bib]] ; [[file:doc/VINPX-FILE.pdf][file]] ]
    - *Les déterminants naturels et politiques des AOC viticoles de
-     Côte-d’Or* (avec Mohamed Hilal). /CyberGéo/, 2021. [ [[file:bib/DNPA.bib][bib]] ; [[https://journals.openedition.org/cybergeo/36443#authors][link]] ]
+     Côte-d’Or* (avec Mohamed Hilal). /CyberGéo/, 2021. [ [[file:bib/DNPA.bib][bib]] ; [[file:doc/DNPA-FILE.pdf][file]] ;
+     [[file:doc/DNPA-SUP.pdf][sup]] ; [[https://journals.openedition.org/cybergeo/36443][link]] ]
    - *Vers une évaluation des coûts de la dégradation des sols :
      Éléments de cadrage, outil d'analyse et études de cas* (avec
      Noémie Pousse, Laurent Rigou et Laurent Thannberger). /Étude et
-     Gestion des Sols/, 2020, 27:147--161. [ [[file:bib/GPRF.bib][bib]] ; [[file:doc/ECOSOL-FILE.pdf][file]] ]
+     Gestion des Sols/, 2020, 27:147--161. [ [[file:bib/GPRF.bib][bib]] ; [[file:doc/ECOSOL-FILE.pdf][file]] ; [[https://www.afes.fr/publications/revue-etude-et-gestion-des-sols/volume-27-numero-1/][link]] ]
    - *Délivrer des permis de construire pour diminuer le coût du
      foncier? Une estimation par la demande de terre constructible*
      (avec Jean Cavailhès, Mohamed Hilal et Julie Le Gallo).
@@ -184,22 +198,7 @@
      de la rareté et choix d'usage* (avec Claude Napoléone). /Revue
      des Régions Arides/, 2013, 30(1):177--190. [ [[file:bib/GPRF.bib][bib]] ; [[https://www.researchgate.net/profile/Claude_Napoleone/publication/268075060_La_gestion_publique_des_ressources_foncieres_entre_evaluation_de_la_rarete_et_choix_d'usages/links/5460bdd20cf295b5616376de/La-gestion-publique-des-ressources-foncieres-entre-evaluation-de-la-rarete-et-choix-dusages.pdf][file]] ]
 
-** Current papers
-
-   - *The signaling values of nested wine names.* With Julie Le
-     Gallo. [ [[https://wine-economics.org/wp-content/uploads/2021/05/AAWE_WP265.pdf][wp]] ] 
-   - *The high cost of noncompliance with mandatory pest control.*
-     With Estelle Gozlan and Emmanuel Paroissien. [ [[file:doc/RISCA-FILE.pdf][file]] ]
-   - *Announcement Effect from Undergrounding High Voltage Overhead
-     Transmission Lines:* *Quasi-experimental Evidence from Rural
-     France.* With Tina Rambonilaza and Jean Dubé. 
-   - *Socio-spatial Distribution of Housing Wealth and Capital Gains:
-     Evidence from a French Region Over the Last 50 Years.* With
-     Thibault Le Corre.
-   - *Impact Evaluation of Policies Supporting Homeownership: Evidence
-     from France.* With Rémi Lei, Olivier Dupré and Julie Le Gallo.
-
-** Working papers
+** Past working papers
 
    - *Les consommateurs face à l’évolution des Appellations d’Origine
      Contrôlée* (avec Monia Saïdi, Stéphan Marette and Christophe
@@ -219,9 +218,13 @@
 
 * Communications
 
-  - 2021 :: *Journées INRAE--SFER--CIRAD* (March, France) ; *Atelier
-    Vin et Société* (Institut d’études avancées de Paris) ; *Séminaire
-    SMART-LERECO* (October, Rennes, France).
+  - 2022 :: *Vine and Wine Seminar of the Burgundy School of Business*
+    (June, Dijon, France) ; *Association Française de Sciences
+    Économiques* (June, Dijon, France)
+  - 2021 :: *Journées INRAE--SFER--CIRAD* (March, Anger, France) ;
+    *Atelier Vin et Société* (Institut d’études avancées de Paris) ;
+    *Séminaire SMART-LERECO* (October, Rennes, France) ; *Journées
+    Recherches en Sciences Sociales* (December, Toulouse, France)
   - 2020 :: *Séminaire Vigne et Vins* (March, Dijon, France).
   - 2019 :: *World Conference on Natural Resource Modeling* (May,
     Montréal, Canada) ; *Transmission du Patrimoine Viticole en
@@ -262,10 +265,11 @@
 * Other activities
 ** Research programs
 
-   - SERENA (2022-2025) funded by EJP SOIL, European Joint Program
-   - LOCUS (2022-2025) funded by ANR, /Agence Nationale de la
+   - [[https://ejpsoil.eu/soil-research/serena][SERENA]] (2022-2025) funded by EJP SOIL, European Joint Program
+   - [[https://anr.fr/Project-ANR-21-CE03-0007][LOCUS]] (2022-2025) funded by ANR, /Agence Nationale de la
      Recherche/
-   - OMISEP (2022-2024) funded by /ADEME/
+   - [[https://www.ademe.fr/en/frontpage/][OMISEP]] (2022-2024) funded by /ADEME/, /Agence de la Transition
+     Écologique/
    - [[http://www.ubfc.fr/pubprivlands/][PubPrivLands]] (2019-2021) funded by /Région Bourgogne
      Franche-Comté (ISIT-BFC)/
    - [[https://www.plan-deperissement-vigne.fr/travaux-de-recherche/programmes-de-recherche/risca][Risca]] (2019-2021) funded by /Plan National Dépérissement du
@@ -278,27 +282,30 @@
 
 ** Teaching experience
 
-| *Course*          | *Place*                | *Hours* | *Formation*   | *Period*             |
-|-------------------+------------------------+---------+---------------+----------------------|
-| Econometrics      | SciencesPo Dijon       |      24 | Undergraduate | 2018--2022 (4 years) |
-| Economics         | SciencesPo Dijon       |      48 | Undergraduate | 2016--2021 (5 years) |
-| Econometrics      | AgroParisTech          |      24 | Postgraduate  | 2012--2017 (5 years) |
-| Econometrics      | Univ. of Franche-Comté |      18 | Postgraduate  | 2012--2017 (5 years) |
-| Microeconometrics | Univ. of Burgundy      |      14 | Undergraduate | 2010--2011 (1 year)  |
+| *Course*       | *Place*                | *Hours* | *Formation* | *Period*           |
+|----------------+------------------------+---------+-------------+--------------------|
+| Land Economics | Univ. of Franche-Comté |       6 | Postgrad.   | 2023 (1 yrs)       |
+| Econometrics   | SciencesPo Dijon       |   24/48 | Undergrad.  | 2018--2023 (5 yrs) |
+| Economics      | SciencesPo Dijon       |      48 | Undergrad.  | 2016--2021 (5 yrs) |
+| Econometrics   | AgroParisTech          |      24 | Postgrad.   | 2012--2017 (5 yrs) |
+| Econometrics   | Univ. of Franche-Comté |      18 | Postgrad.   | 2012--2017 (5 yrs) |
+| Microeconomics | Univ. of Burgundy      |      14 | Undergrad.  | 2010--2011 (1 yrs) |
+|----------------+------------------------+---------+-------------+--------------------|
 
 ** Referee reports
 
 #+LaTeX: \vspace{.5cm}
 
    Acta Oeconomica (1), Ecological Economics (2), Économie et
-   Statistique (2), Économie Rurale (2), European Review of
-   Agricultural Economics (3), International Journal of Geographical
-   Information Science (1), International Journal of Strategic
-   Property Management (1), Journal of Environmental Management (3),
-   Plos One (1), Regional Studies (1), Review of Agricultural, Food
-   and Environmental Studies (1), Revue Économique (1), Revue
-   d'Économie Régionale et Urbaine (3), Spatial Economic Analysis (2),
-   Spatial Statistics (1), Sustainability (1).
+   Statistique (2), Économie Rurale (2), Environmental and Resource
+   Economics (1), European Review of Agricultural Economics (3),
+   International Journal of Geographical Information Science (1),
+   International Journal of Strategic Property Management (1), Journal
+   of Environmental Management (3), Plos One (1), Regional Studies
+   (1), Review of Agricultural, Food and Environmental Studies (1),
+   Revue Économique (1), Revue d'Économie Régionale et Urbaine (3),
+   Spatial Economic Analysis (2), Spatial Statistics (1),
+   Sustainability (1).
 
 #+LaTeX: \vspace{.5cm}
 
@@ -315,6 +322,8 @@
      action" [ [[https://www.inrae.fr/actualites/sols-artificialises-processus-dartificialisation-sols][website]] ].
    - Member of the scientific committee of the Workshop on Spatial
      Econometrics and Statistics.
+   - Family activities: [[https://distillerie-mazy.fr/][Distillerie Mazy]] in Burgundy and [[https://www.gigondas-vin.com/vigneron/domaine-raspail-ay/][Domaine
+     Raspail-Ay]] in Rhône Valley.
 
 * Credits                                    :noexport:
 # now directly put in html-postamble, kept for memory
