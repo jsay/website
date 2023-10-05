@@ -66,7 +66,7 @@
 | *Phone:*     | 00.33.(0)3.80.77.23.19                                 |
 | *Email:*     | [[mailto:jean-sauveur.ay@inrae.fr][jean-sauveur.ay-at-inrae-dot-fr]]                        |
 | *Address:*   | [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], [[https://www.google.com/maps/?q%3D47.3097819,5.0644835][26 blvd Dr Petitjean]], [[https://www.google.com/maps/place/21000+Dijon/][21000 Dijon (France)]] |
-| *Web pages:* | [[http://github.com/jsay/][GitHub]] / [[https://www2.dijon.inrae.fr/cesaer/membres/jean-sauveur-ay/][Official]] / [[https://ideas.repec.org/e/pay77.html][RePEc]] / [[https://www.researchgate.net/profile/Jean_Sauveur_Ay][ResearchGate]] / [[https://scholar.google.fr/citations?user=arEwxlIAAAAJ&hl=fr][Scholar]]     |
+| *Web pages:* | [[https://www2.dijon.inrae.fr/cesaer/membres/jean-sauveur-ay/][Academic]] / [[http://github.com/jsay/][GitHub]] / [[https://ideas.repec.org/e/pay77.html][RePEc]] / [[https://www.researchgate.net/profile/Jean_Sauveur_Ay][ResearchGate]] / [[https://scholar.google.fr/citations?user=arEwxlIAAAAJ&hl=fr][Scholar]]    |
 
 * Professional experience
 
@@ -77,8 +77,8 @@
 * Education
 
 | 2008 to 2011 | *PhD in Economics* at INRA and [[http://en.u-bourgogne.fr/][Université de Bourgogne]] |
-| 2007 to 2008 | *MA in Economics* at [[https://www.parisschoolofeconomics.eu/en/][PSE, Paris School of Economics]]    |
-| 2005 to 2008 | *MA in Economics* at [[https://www.amse-aixmarseille.fr/en][Université Aix-Marseille II]]       |
+| 2007 to 2008 | *M.Sc. in Economics* at [[https://www.parisschoolofeconomics.eu/en/][PSE, Paris School of Economics]] |
+| 2005 to 2008 | *M.Sc. in Economics* at [[https://www.amse-aixmarseille.fr/en][Université Aix-Marseille II]]    |
 
 * Research interest
 
@@ -101,20 +101,22 @@
    - *The cost of noncompliance: Evidence from mandatory control of a
      quarantine pest in French vineyards* (with Estelle Gozlan and
      Emmanuel Paroissien) [ [[file:doc/RISCA-FILE.pdf][file]] ]
-   - *Announcement effect from undergrounding high voltage overhead
+   - *The announcement effect of undergrounding high voltage overhead
      transmission lines:* *Quasi-experimental evidence from rural
      France* (with Tina Rambonilaza and Jean Dubé) [ [[file:doc/HVTOL-FILE.pdf][file]] ]
-   - *Socio-spatial distribution of housing wealth and capital gains*
-     (with Thibault Le Corre)
-   - *The extensive and intensive margins of homeownership* (with Rémi
-     Lei, Olivier Dupré and Julie Le Gallo)
+   - *Accounting for homeowner mobility in net housing wealth
+     accumulation across professional occupations* (with Thibault Le
+     Corre) [ [[file:doc/PPL-FILE.pdf][file]] ]
+   - *Supporting homeownership cost-effectively according to policy
+     objectives: French evidence* (with Rémi Lei and Julie Le Gallo) [
+     [[file:doc/CEREM-FILE.pdf][file]] ]
 
 * Publications
 ** Refereed papers (in English)
 
    - *Climate-dependent scenarios of land use for biodiversity and
      ecosystem services in the New Aquitaine region* (with
-     N. A. Andriamanantena, C. Gaufreteau and L. Doyen) /Regional
+     N. A. Andriamanantena, C. Gaufreteau and L. Doyen). /Regional
      Environmental Change/, 2022, 22(3): 1--15 [ [[file:bib/MDFD.bib][bib]] ; [[file:doc/CDSA-FILE.pdf][file]] ; [[file:doc/CDSA-SUP.pdf][sup]] ;
      [[https://link.springer.com/article/10.1007/s10113-022-01964-6][link]] ].
    - *Field and landscape risk factors impacting Flavescence dorée
@@ -178,7 +180,7 @@
 
    - *La capitalisation du prix des vins dans le prix des vignes en
      Côte-d’Or* (avec Abdoul Diallo et Hai-Vu Pham). /Revue
-     Économique/, 2022 /accepted/. [ [[file:bib/DNPA.bib][bib]] ; [[file:doc/VINPX-FILE.pdf][file]] ]
+     Économique/, 2023, 74 (1). [ [[file:bib/DNPA.bib][bib]] ; [[file:doc/VINPX-FILE.pdf][file]] ]
    - *Les déterminants naturels et politiques des AOC viticoles de
      Côte-d’Or* (avec Mohamed Hilal). /CyberGéo/, 2021. [ [[file:bib/DNPA.bib][bib]] ; [[file:doc/DNPA-FILE.pdf][file]] ;
      [[file:doc/DNPA-SUP.pdf][sup]] ; [[https://journals.openedition.org/cybergeo/36443][link]] ]
@@ -206,21 +208,30 @@
    - *The drivers of spatial cropping patterns in Burgundy* (with
      Valentin Bellassen and Mohamed Hilal). /UMR CESAER Working Papers
      2020-1/, 2020, [ [[https://hal.inrae.fr/hal-02894116][link]] ]
+   - *Sols artificialisés et processus d'artificialisation des sols:
+     déterminants, impacts et leviers d'action* (Béatrice Béchet, Yves
+     Le Bissonnais, Anne Ruas, et al.) /ESCo INRA-IFSTTAR/, 2017, [
+     [[https://www.inrae.fr/actualites/sols-artificialises-processus-dartificialisation-sols][link]] ]
    - *Improving the estimates of agricultural land valuation: report
      to the World Bank* (with Philippe Bontems, Raja Chakir and Laure
      Latruffe). /HAL-01462707/, 2015 [ [[https://hal.archives-ouvertes.fr/hal-01462707][link]] ] 
    - *La valeur des attributs naturels des terres agricoles de
      Côte-d'Or* (with Jean-Marc Brayer, Jean Cavailhès, Pierre Curmi,
-     Mohamed Hilal and Marjorie Ubertosi). /UMR CESAER Working Papers
-     2012-1/, 2012 [ [[http://ideas.repec.org/p/ceo/wpaper/33.html][link]] ]
+     Mohamed Hilal and Marjorie Ubertosi). /CESAER Working Paper
+     2012/, [ [[http://ideas.repec.org/p/ceo/wpaper/33.html][link]] ]
    - *Hétérogénéité de la terre et rareté économique*. /PhD thesis,
-     INRA and Université de Bourgogne/, 2011, [ [[http://tel.archives-ouvertes.fr/tel-00629142/en/][link]] ] 
+     Université de Bourgogne/, 2011, [ [[http://tel.archives-ouvertes.fr/tel-00629142/en/][link]] ]
 
 * Communications
 
-  - 2022 :: *Vine and Wine Seminar of the Burgundy School of Business*
-    (June, Dijon, France) ; *Association Française de Sciences
-    Économiques* (June, Dijon, France)
+  - 2023 :: *AERE@AEE* (February, New York City, USA) ; *Spatial
+    Econometrics Workshop* (May, Dijon, France) ; *Journées PSAE*
+    (June, Paris, France) *Journées d'Étude des Sols* (June, Dijon,
+    France) ; *Jeudis Expertise Vigne & Vin* (September, Dijon,
+    France).
+  - 2022 :: *Wine and Spirit Seminar of the Burgundy School of
+    Business* (June, Dijon, France) ; *Association Française de
+    Sciences Économiques* (June, Dijon, France)
   - 2021 :: *Journées INRAE--SFER--CIRAD* (March, Anger, France) ;
     *Atelier Vin et Société* (Institut d’études avancées de Paris) ;
     *Séminaire SMART-LERECO* (October, Rennes, France) ; *Journées
@@ -265,6 +276,12 @@
 * Other activities
 ** Research programs
 
+   - OPOSOM (2024-2026) funded by ANR, /Agence Nationale de la
+     Recherche/
+   - LAMARTINE (2023-2026) funded by ANR, /Agence Nationale de la
+     Recherche/
+   - Risca 2 (2023-2026) funded by /Plan National Dépérissement du
+     Vignoble/
    - [[https://ejpsoil.eu/soil-research/serena][SERENA]] (2022-2025) funded by EJP SOIL, European Joint Program
    - [[https://anr.fr/Project-ANR-21-CE03-0007][LOCUS]] (2022-2025) funded by ANR, /Agence Nationale de la
      Recherche/
@@ -285,7 +302,7 @@
 | *Course*       | *Place*                | *Hours* | *Formation* | *Period*           |
 |----------------+------------------------+---------+-------------+--------------------|
 | Land Economics | Univ. of Franche-Comté |       6 | Postgrad.   | 2023 (1 yrs)       |
-| Econometrics   | SciencesPo Dijon       |   24/48 | Undergrad.  | 2018--2023 (5 yrs) |
+| Econometrics   | SciencesPo Dijon       |   24/48 | Undergrad.  | 2018--2024 (6 yrs) |
 | Economics      | SciencesPo Dijon       |      48 | Undergrad.  | 2016--2021 (5 yrs) |
 | Econometrics   | AgroParisTech          |      24 | Postgrad.   | 2012--2017 (5 yrs) |
 | Econometrics   | Univ. of Franche-Comté |      18 | Postgrad.   | 2012--2017 (5 yrs) |
@@ -296,15 +313,17 @@
 
 #+LaTeX: \vspace{.5cm}
 
-   Acta Oeconomica (1), Ecological Economics (2), Économie et
-   Statistique (2), Économie Rurale (2), Environmental and Resource
-   Economics (1), European Review of Agricultural Economics (3),
-   International Journal of Geographical Information Science (1),
-   International Journal of Strategic Property Management (1), Journal
-   of Environmental Management (3), Plos One (1), Regional Studies
-   (1), Review of Agricultural, Food and Environmental Studies (1),
-   Revue Économique (1), Revue d'Économie Régionale et Urbaine (3),
-   Spatial Economic Analysis (2), Spatial Statistics (1),
+   Acta Oeconomica (1), American Journal of Agricultural Economics
+   (1), Ecological Economics (2), Économie et Statistique (2),
+   Économie Rurale (2), Environmental Modeling and Assessment (1),
+   Environmental and Resource Economics (1), European Review of
+   Agricultural Economics (3), International Journal of Geographical
+   Information Science (1), International Journal of Strategic
+   Property Management (1), Journal of Agricultural Economics (1),
+   Journal of Environmental Management (3), Plos One (1), Regional
+   Studies (1), Review of Agricultural, Food and Environmental Studies
+   (1), Revue Économique (1), Revue d'Économie Régionale et Urbaine
+   (3), Spatial Economic Analysis (2), Spatial Statistics (1),
    Sustainability (1).
 
 #+LaTeX: \vspace{.5cm}
@@ -313,16 +332,18 @@
 
    - Consultant and Expert for INAO, the French National Institute of
      the Signs of Quality and Origin.
-   - Consultant for Inter-Rhône, the professional organization of the
-     wine producers and traders from Rhône Valley.
-   - Member of the scientific committee of RNEST, a national network
-     about the management of soil quality.
+   - Consultant for Inter-Rhône, the organization of wine producers
+     from the Rhône Valley.
+   - Member of the scientific committee of RNEST, a network about the
+     management of soil quality.
    - Expert in a scientific team about "Artificialized land and
      artificialization processes: determinants, impacts and levers for
      action" [ [[https://www.inrae.fr/actualites/sols-artificialises-processus-dartificialisation-sols][website]] ].
    - Member of the scientific committee of the Workshop on Spatial
      Econometrics and Statistics.
-   - Family activities: [[https://distillerie-mazy.fr/][Distillerie Mazy]] in Burgundy and [[https://www.gigondas-vin.com/vigneron/domaine-raspail-ay/][Domaine
+   - Member of the /Conseil d'orientation scientifique/ of the French
+     association for agricultural economics.
+   - Other activities: [[https://distillerie-mazy.fr/][Distillerie Mazy]] in Burgundy and [[https://www.gigondas-vin.com/vigneron/domaine-raspail-ay/][Domaine
      Raspail-Ay]] in Rhône Valley.
 
 * Credits                                    :noexport:
