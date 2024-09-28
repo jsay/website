@@ -98,22 +98,31 @@
 
    - *The signaling values of nested wine names* (with Julie Le
      Gallo) [ [[https://wine-economics.org/wp-content/uploads/2021/05/AAWE_WP265.pdf][wp]] ] 
-   - *The cost of noncompliance: Evidence from mandatory control of a
-     quarantine pest in French vineyards* (with Estelle Gozlan and
+   - *Private and social efficiency of insecticide use against an
+     insect-borne infectious disease* (with Estelle Gozlan and
      Emmanuel Paroissien) [ [[file:doc/RISCA-FILE.pdf][file]] ]
-   - *The announcement effect of undergrounding high voltage overhead
-     transmission lines:* *Quasi-experimental evidence from rural
-     France* (with Tina Rambonilaza and Jean Dubé) [ [[file:doc/HVTOL-FILE.pdf][file]] ]
    - *Accounting for homeowner mobility in net housing wealth
      accumulation across professional occupations* (with Thibault Le
      Corre) [ [[file:doc/PPL-FILE.pdf][file]] ]
    - *Supporting homeownership cost-effectively according to policy
      objectives: French evidence* (with Rémi Lei and Julie Le Gallo) [
      [[file:doc/CEREM-FILE.pdf][file]] ]
+   - *Does urban sprawl cause residential vacancy across French
+     municipalities?* (with Mahamoudou Zore and Catherine Baumont) [
+     [[file:doc/ZORE-FILE.pdf][file]] ]
 
 * Publications
 ** Refereed papers (in English)
 
+   - *External costs of high-voltage overhead transmission lines:
+     Evidence from a causal approach in rural France*. (with Tina
+     Rambonilaza and Jean Dubé). /Environmental Impact Assessment
+     Review/, 2024, 109(107639). [ [[file:bib/MDFD.bib][bib]] ; [[file:doc/HVTOL-FILE.pdf][file]] ; [[https://www.sciencedirect.com/science/article/pii/S0195925524002269][link]] ]
+   - *Building integrated plant health surveillance: a proactive
+     research agenda for anticipating and mitigating disease and pest
+     emergence* (with S. Soubeyrand, A. Estoup, G. Thébaud and
+     C. E. Morris and others). /CABI Agriculture and Bioscience/,
+     2024, 5(1), 72. [ [[file:bib/MDFD.bib][bib]] ; [[https://link.springer.com/article/10.1186/s43170-024-00273-8][link]] ]
    - *Climate-dependent scenarios of land use for biodiversity and
      ecosystem services in the New Aquitaine region* (with
      N. A. Andriamanantena, C. Gaufreteau and L. Doyen). /Regional
@@ -200,7 +209,7 @@
      de la rareté et choix d'usage* (avec Claude Napoléone). /Revue
      des Régions Arides/, 2013, 30(1):177--190. [ [[file:bib/GPRF.bib][bib]] ; [[https://www.researchgate.net/profile/Claude_Napoleone/publication/268075060_La_gestion_publique_des_ressources_foncieres_entre_evaluation_de_la_rarete_et_choix_d'usages/links/5460bdd20cf295b5616376de/La-gestion-publique-des-ressources-foncieres-entre-evaluation-de-la-rarete-et-choix-dusages.pdf][file]] ]
 
-** Past working papers
+** Other documents
 
    - *Les consommateurs face à l’évolution des Appellations d’Origine
      Contrôlée* (avec Monia Saïdi, Stéphan Marette and Christophe
@@ -224,7 +233,9 @@
 
 * Communications
 
-  - 2023 :: *AERE@AEE* (February, New York City, USA) ; *Spatial
+  - 2024 :: *Séminaire FAR* (June, Paris, France) ; *Séminaire INED*
+    (June, Paris, France)
+  - 2023 :: *AERE@AEE* (February, New York, USA) ; *Spatial
     Econometrics Workshop* (May, Dijon, France) ; *Journées PSAE*
     (June, Paris, France) *Journées d'Étude des Sols* (June, Dijon,
     France) ; *Jeudis Expertise Vigne & Vin* (September, Dijon,
@@ -276,6 +287,7 @@
 * Other activities
 ** Research programs
 
+   - RURALITIC (2025-2028) funded by European Union, /Horizon Europe/
    - OPOSOM (2024-2026) funded by ANR, /Agence Nationale de la
      Recherche/
    - LAMARTINE (2023-2026) funded by ANR, /Agence Nationale de la
@@ -302,7 +314,7 @@
 | *Course*       | *Place*                | *Hours* | *Formation* | *Period*           |
 |----------------+------------------------+---------+-------------+--------------------|
 | Land Economics | Univ. of Franche-Comté |       6 | Postgrad.   | 2023 (1 yrs)       |
-| Econometrics   | SciencesPo Dijon       |   24/48 | Undergrad.  | 2018--2024 (6 yrs) |
+| Econometrics   | SciencesPo Dijon       |   24/48 | Undergrad.  | 2018--2025 (7 yrs) |
 | Economics      | SciencesPo Dijon       |      48 | Undergrad.  | 2016--2021 (5 yrs) |
 | Econometrics   | AgroParisTech          |      24 | Postgrad.   | 2012--2017 (5 yrs) |
 | Econometrics   | Univ. of Franche-Comté |      18 | Postgrad.   | 2012--2017 (5 yrs) |
@@ -335,14 +347,14 @@
    - Consultant for Inter-Rhône, the organization of wine producers
      from the Rhône Valley.
    - Member of the scientific committee of RNEST, a network about the
-     management of soil quality.
+     management of soil quality (2018-2024).
    - Expert in a scientific team about "Artificialized land and
      artificialization processes: determinants, impacts and levers for
      action" [ [[https://www.inrae.fr/actualites/sols-artificialises-processus-dartificialisation-sols][website]] ].
    - Member of the scientific committee of the Workshop on Spatial
      Econometrics and Statistics.
    - Member of the /Conseil d'orientation scientifique/ of the French
-     association for agricultural economics.
+     association for agricultural economics (SFER).
    - Other activities: [[https://distillerie-mazy.fr/][Distillerie Mazy]] in Burgundy and [[https://www.gigondas-vin.com/vigneron/domaine-raspail-ay/][Domaine
      Raspail-Ay]] in Rhône Valley.
 
