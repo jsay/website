@@ -21,7 +21,7 @@
 #+begin_src emacs-lisp :eval yes :results silent
 (add-to-list 'org-latex-classes
 	     '("CuriVitae"
-	       "\\documentclass[11pt, a4paper]{./style}
+	       "\\documentclass[10pt, a4paper]{./style}
                   [NO-DEFAULT-PACKAGES]
                   \\usepackage{natbib}
                   \\usepackage{comment, csquotes}
@@ -68,32 +68,26 @@
 | *Address:*   | [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], [[https://www.google.com/maps/?q%3D47.3097819,5.0644835][26 blvd Dr Petitjean]], [[https://www.google.com/maps/place/21000+Dijon/][21000 Dijon (France)]]  |
 | *Web pages:* | [[http://github.com/jsay/][GitHub]] / [[https://cesaer.dijon.hub.inrae.fr/membres/personnel-scientifique/ay-jean-sauveur][Institutional]] / [[https://ideas.repec.org/e/pay77.html][RePEc]] / [[https://www.researchgate.net/profile/Jean_Sauveur_Ay][ResearchGate]] / [[https://scholar.google.fr/citations?user=arEwxlIAAAAJ&hl=fr][Scholar]] |
 
+* Research interest
+
+  - Land Economics :: Inter-disciplinary researches on agricultural,
+    environmental, and urban outcomes,
+  - Wine Economics :: Economics of geographical indications,
+    consumers' preferences, and pest diseases,
+  - Applied Econometrics :: Causal inference, spatial econometrics,
+    and more structural approaches.
+
 * Professional experience
 
-| 2014 to now  | *Researcher* at INRAE, [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], Dijon       |
-| 2013 to 2014 | *Research fellow* at INRA, [[https://www6.versailles-grignon.inrae.fr/economie_publique_eng/][UMR Éco Pub]], Paris  |
-| 2011 to 2013 | *Postdoctoral fellow* at CNRS, [[http://cesco.mnhn.fr/en][UMR Cesco]], Paris |
+| 2014 to now  | *Researcher* at INRAE, [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], Dijon             |
+| 2013 to 2014 | *Research fellow* at INRA, [[https://www6.versailles-grignon.inrae.fr/economie_publique_eng/][UMR Éco Pub]], Paris        |
+| 2011 to 2013 | *Postdoctoral fellow* at CNRS-MNHN, [[http://cesco.mnhn.fr/en][UMR Cesco]], Paris |
 
 * Education
 
 | 2008 to 2011 | *PhD in Economics* at INRA and [[http://en.u-bourgogne.fr/][Université de Bourgogne]] |
 | 2007 to 2008 | *M.Sc. in Economics* at [[https://www.parisschoolofeconomics.eu/en/][PSE, Paris School of Economics]] |
 | 2005 to 2008 | *M.Sc. in Economics* at [[https://www.amse-aixmarseille.fr/en][Université Aix-Marseille II]]    |
-
-* Research interest
-
-  - Land Economics :: Study of land use decisions and land price
-    dynamics in relation to agricultural, environmental, and urban
-    outcomes. Analysis of the effects of public policies on land use
-    patterns and land values.
-  - Wine Economics :: Investigation of consumer preferences for wine
-    attributes, vineyard pricing linked to geographical indications,
-    and environmental influences. Evaluation of public policy impacts
-    on the wine sector.
-  - Applied Econometrics :: Expertise in spatial econometrics,
-    geographically weighted regression, causal inference, instrumental
-    variables, best linear unbiased prediction, and discrete choice
-    modeling.
 
 * Current papers
 
@@ -108,15 +102,20 @@
    - *Does urban sprawl cause residential vacancy across French
      municipalities?* (with Mahamoudou Zore and Catherine Baumont) [
      [[file:doc/ZORE-FILE.pdf][file]] ]
-   - *The Dynamic Impact of Land-Use Changes on Soil Organic Carbon*
+   - *The dynamic impact of land-use changes on soil organic carbon*
      (with Liang Diao and Valentin Bellassen) [ [[file:doc/DSOIL-FILE.pdf][file]] ]
    - *Strategic free-riding for pest control in organic-conventional
      mixed landscapes* (with François Bareille and Vincent Martinet) [
      [[file:doc/FVBIO-FILE.pdf][file]] ]
-
+   
 * Publications
 ** Refereed papers (in English)
 
+   - *The social stratification of homeowners' housing wealth:*
+     *Bringing a dynamic approach through the price gap index*. (with
+     Thibault Le Corre) /Environment and Planning B: Urban Analytics
+     and City Science/, 2025, 103(2): 523--542 [ [[file:bib/PPL.bib][bib]] ; [[file:doc/PPL-FILE.pdf][file]] ; [[https://github.com/jsay/PriceGapIndex][online]] ;
+     [[https://journals.sagepub.com/doi/10.1177/23998083251339296][link]] ]
    - *External costs of high-voltage overhead transmission lines:
      Evidence from a causal approach in rural France*. (with Tina
      Rambonilaza and Jean Dubé). /Environmental Impact Assessment
@@ -190,6 +189,10 @@
 
 ** Refereed papers (in French)
 
+   - *Mises en oeuvre de démarches agroécologiques dans des régions
+     viticoles françaises* (avec Patrice This, Emna Troudi, Marie
+     Thiollet-Scholtus et autres). /Innovations Agronomiques/, 2025. [
+     [[file:bib/DNPA.bib][bib]] ; [[https://hal.inrae.fr/hal-05010342v1/document][link]] ]
    - *La capitalisation du prix des vins dans le prix des vignes en
      Côte-d’Or* (avec Abdoul Diallo et Hai-Vu Pham). /Revue
      Économique/, 2023, 74 (1). [ [[file:bib/DNPA.bib][bib]] ; [[file:doc/VINPX-FILE.pdf][file]] ]
@@ -212,8 +215,12 @@
      de la rareté et choix d'usage* (avec Claude Napoléone). /Revue
      des Régions Arides/, 2013, 30(1):177--190. [ [[file:bib/GPRF.bib][bib]] ; [[https://www.researchgate.net/profile/Claude_Napoleone/publication/268075060_La_gestion_publique_des_ressources_foncieres_entre_evaluation_de_la_rarete_et_choix_d'usages/links/5460bdd20cf295b5616376de/La-gestion-publique-des-ressources-foncieres-entre-evaluation-de-la-rarete-et-choix-dusages.pdf][file]] ]
 
-** Other documents
+** Other publications
 
+   - *Préserver la qualité des sols: vers un référentiel
+     d’indicateurs.* (avec Isabelle Cousin, Maylis Desrousseaux,
+     Sophie Leenhardt et autres). /Expertise collective INRAE/, 2025,
+     [ [[https://college-de-france.hal.science/hal-04934694/][link]] ]
    - *Les consommateurs face à l’évolution des Appellations d’Origine
      Contrôlée* (avec Monia Saïdi, Stéphan Marette and Christophe
      Martin). /INRAE Sciences Sociales/, 2020, [ [[https://ageconsearch.umn.edu/record/305806][link]] ]
@@ -222,8 +229,8 @@
      2020-1/, 2020, [ [[https://hal.inrae.fr/hal-02894116][link]] ]
    - *Sols artificialisés et processus d'artificialisation des sols:
      déterminants, impacts et leviers d'action* (Béatrice Béchet, Yves
-     Le Bissonnais, Anne Ruas, et al.) /ESCo INRA-IFSTTAR/, 2017, [
-     [[https://www.inrae.fr/actualites/sols-artificialises-processus-dartificialisation-sols][link]] ]
+     Le Bissonnais, Anne Ruas, et al.) /Expertise collective
+     INRA-IFSTTAR/, 2017, [ [[https://www.inrae.fr/actualites/sols-artificialises-processus-dartificialisation-sols][link]] ]
    - *Improving the estimates of agricultural land valuation: report
      to the World Bank* (with Philippe Bontems, Raja Chakir and Laure
      Latruffe). /HAL-01462707/, 2015 [ [[https://hal.archives-ouvertes.fr/hal-01462707][link]] ] 
@@ -236,8 +243,12 @@
 
 * Communications
 
+  - 2025 :: *Colloque OMISEP* (June, Marseille, France) ; *Jeudis
+    Expertise Vigne & Vin* (April, Dijon, France).
   - 2024 :: *Séminaire FAR* (June, Paris, France) ; *Séminaire INED*
-    (June, Paris, France)
+    (June, Paris, France) ; *Final Meeting SERENA* (October, Orléans,
+    France) ; *Journées de Recherches en Sciences Sociales* (December,
+    Reims, France).
   - 2023 :: *AERE@AEE* (February, New York, USA) ; *Spatial
     Econometrics Workshop* (May, Dijon, France) ; *Journées PSAE*
     (June, Paris, France) *Journées d'Étude des Sols* (June, Dijon,
@@ -290,35 +301,31 @@
 * Other activities
 ** Research programs
 
-   - RURALITIC (2025-2028) funded by European Union, /Horizon Europe/
-   - OPOSOM (2024-2026) funded by ANR, /Agence Nationale de la
+   - [[https://www.inrae.fr/en/news/ruralitic-rethinking-european-rural-areas-face-new-realities-challenges-and-transitions][RURALITIC]] (2025-2028) from European Union, /Horizon Europe/
+   - [[https://anr.fr/Projet-ANR-23-CE41-0007][OPOSOM]] (2024-2026) from ANR, /Agence Nationale de la Recherche/
+   - [[https://anr.fr/Project-ANR-23-CE55-0008][LAMARTINE]] (2023-2026) from ANR, /Agence Nationale de la
      Recherche/
-   - LAMARTINE (2023-2026) funded by ANR, /Agence Nationale de la
-     Recherche/
-   - Risca 2 (2023-2026) funded by /Plan National Dépérissement du
+   - [[https://www.plan-deperissement-vigne.fr/recherches/programmes-de-recherche/risca-ii][Risca 2]] (2023-2026) from /Plan National Dépérissement du
      Vignoble/
-   - [[https://ejpsoil.eu/soil-research/serena][SERENA]] (2022-2025) funded by EJP SOIL, European Joint Program
-   - [[https://anr.fr/Project-ANR-21-CE03-0007][LOCUS]] (2022-2025) funded by ANR, /Agence Nationale de la
-     Recherche/
-   - [[https://www.ademe.fr/en/frontpage/][OMISEP]] (2022-2024) funded by /ADEME/, /Agence de la Transition
+   - [[https://ejpsoil.eu/soil-research/serena][SERENA]] (2022-2025) from EJP SOIL, /European Joint Program/
+   - [[https://anr.fr/Project-ANR-21-CE03-0007][LOCUS]] (2022-2025) from ANR, /Agence Nationale de la Recherche/
+   - [[https://www.ademe.fr/en/frontpage/][OMISEP]] (2022-2024) from /ADEME/, /Agence de la Transition
      Écologique/
-   - [[http://www.ubfc.fr/pubprivlands/][PubPrivLands]] (2019-2021) funded by /Région Bourgogne
-     Franche-Comté (ISIT-BFC)/
-   - [[https://www.plan-deperissement-vigne.fr/travaux-de-recherche/programmes-de-recherche/risca][Risca]] (2019-2021) funded by /Plan National Dépérissement du
-     Vignoble/
-   - [[https://www.trustee-project.eu/][Trustee]] (2013-2017) funded by EU FP7, ERA-NET RURAGRI program
-   - [[https://www.fondationbiodiversite.fr/en/][Mobilis]] (2012-2013) funded by FRB, /Fondation pour la Recherche
-     sur la Biodiversité/
-   - [[http://www.gessol.fr/content/integrer-la-valeur-epuratrice-de-sols-hydromorphes-dans-leur-usage-quelles-strategies-d-inte][EcoSolHydro]] (2011-2012) funded by ADEME and MEEDE, from GESSOL
-     program
+   - [[http://www.ubfc.fr/pubprivlands/][PubPrivLands]] (2019-2021) from /Région Bourgogne Franche-Comté
+     (ISIT-BFC)/
+   - [[https://www.plan-deperissement-vigne.fr/travaux-de-recherche/programmes-de-recherche/risca][Risca]] (2019-2021) from /Plan National Dépérissement du Vignoble/
+   - [[https://www.trustee-project.eu/][Trustee]] (2013-2017) from EU FP7, /ERA-NET RURAGRI program/
+   - [[https://www.fondationbiodiversite.fr/en/][Mobilis]] (2012-2013) from FRB, /Fondation pour la Recherche sur la
+     Biodiversité/
+   - [[http://www.gessol.fr/content/integrer-la-valeur-epuratrice-de-sols-hydromorphes-dans-leur-usage-quelles-strategies-d-inte][EcoSolHydro]] (2011-2012) from ADEME and MEEDE, /GESSOL program/
 
 ** Teaching experience
 
 | *Course*       | *Place*                | *Hours* | *Formation* | *Period*           |
 |----------------+------------------------+---------+-------------+--------------------|
-| Land Economics | Univ. of Franche-Comté |       6 | Postgrad.   | 2023 (1 yrs)       |
-| Econometrics   | SciencesPo Dijon       |   24/48 | Undergrad.  | 2018--2025 (7 yrs) |
+| Econometrics   | SciencesPo Dijon       |   24/48 | Undergrad.  | 2018--2026 (8 yrs) |
 | Economics      | SciencesPo Dijon       |      48 | Undergrad.  | 2016--2021 (5 yrs) |
+| Land Economics | Univ. of Franche-Comté |       6 | Postgrad.   | 2023 (1 yrs)       |
 | Econometrics   | AgroParisTech          |      24 | Postgrad.   | 2012--2017 (5 yrs) |
 | Econometrics   | Univ. of Franche-Comté |      18 | Postgrad.   | 2012--2017 (5 yrs) |
 | Microeconomics | Univ. of Burgundy      |      14 | Undergrad.  | 2010--2011 (1 yrs) |
@@ -328,45 +335,37 @@
 
 #+LaTeX: \vspace{.5cm}
 
-   Acta Oeconomica (1), American Journal of Agricultural Economics
-   (1), Ecological Economics (2), Économie et Statistique (2),
-   Économie Rurale (2), Environmental Modeling and Assessment (1),
-   Environmental and Resource Economics (1), European Review of
-   Agricultural Economics (3), International Journal of Geographical
-   Information Science (1), International Journal of Strategic
-   Property Management (1), Journal of Agricultural Economics (1),
-   Journal of Environmental Management (3), Plos One (1), Regional
-   Studies (1), Review of Agricultural, Food and Environmental Studies
-   (1), Revue Économique (1), Revue d'Économie Régionale et Urbaine
-   (3), Spatial Economic Analysis (2), Spatial Statistics (1),
-   Sustainability (1).
+   Acta Oeconomica (1), Agricultural Economics (1), American Journal
+   of Agricultural Economics (1), Applied Economics (1), Ecological
+   Economics (2), Économie et Statistique (2), Économie Rurale (3),
+   Environmental Modeling and Assessment (2), Environment and Planning
+   A (1), Environmental and Resource Economics (1), European Review of
+   Agricultural Economics (3), Gezoderma (1), International Journal of
+   Geographical Information Science (1), International Journal of
+   Strategic Property Management (1), Journal of Agricultural
+   Economics (1), Journal of Environmental Management (3), Plos One
+   (1), Regional Studies (1), Review of Agricultural, Food and
+   Environmental Studies (2), Revue Économique (1), Revue d'Économie
+   Régionale et Urbaine (3), Spatial Economic Analysis (2), Spatial
+   Statistics (1), Sustainability (1).
 
 #+LaTeX: \vspace{.5cm}
 
 ** Miscellaneous
 
    - Consultant and Expert for INAO, the French National Institute of
-     the Signs of Quality and Origin.
+     the Signs of Quality and Origin,
    - Consultant for Inter-Rhône, the organization of wine producers
-     from the Rhône Valley.
+     from the Rhône Valley,
    - Member of the scientific committee of RNEST, a network about the
-     management of soil quality (2018-2024).
+     management of soil quality (2018--2024),
+   - Expert in a scientific team about "Soil quality indicators",
    - Expert in a scientific team about "Artificialized land and
      artificialization processes: determinants, impacts and levers for
-     action" [ [[https://www.inrae.fr/actualites/sols-artificialises-processus-dartificialisation-sols][website]] ].
+     action" [ [[https://www.inrae.fr/actualites/sols-artificialises-processus-dartificialisation-sols][website]] ],
    - Member of the scientific committee of the Workshop on Spatial
-     Econometrics and Statistics.
+     Econometrics and Statistics,
    - Member of the /Conseil d'orientation scientifique/ of the French
-     association for agricultural economics (SFER).
+     association for agricultural economics (SFER),
    - Other activities: [[https://distillerie-mazy.fr/][Distillerie Mazy]] in Burgundy and [[https://www.gigondas-vin.com/vigneron/domaine-raspail-ay/][Domaine
      Raspail-Ay]] in Rhône Valley.
-
-* Credits                                    :noexport:
-# now directly put in html-postamble, kept for memory
-
-  Last modification: {{{time(%Y-%m-%d)}}}
-
-  [[https://www.gnu.org/software/emacs/][Emacs]] src_emacs-lisp[:results raw]{(substring emacs-version)},
-  [[https://orgmode.org][org-mode]] src_emacs-lisp[:results raw]{(org-version)}
-
-  CSS file here, adapted from [[https://github.com/gongzhitaao/orgcss/blob/master/org.css][orgcss]]

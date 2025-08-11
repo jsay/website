@@ -29,7 +29,7 @@
 \today
 \end{flushright}\vspace{.25cm}
   \begin{center}%
-    {\Huge \textbf\@title}
+    {\LARGE \textbf\@title}
   \end{center}\vspace{.5cm}}
 
 % Espacements
