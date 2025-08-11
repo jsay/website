@@ -63,10 +63,10 @@
 
 * Contact Information
 
-| *Phone:*     | 00.33.(0)3.80.77.23.19                                 |
-| *Email:*     | [[mailto:jean-sauveur.ay@inrae.fr][jean-sauveur.ay-at-inrae-dot-fr]]                        |
-| *Address:*   | [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], [[https://www.google.com/maps/?q%3D47.3097819,5.0644835][26 blvd Dr Petitjean]], [[https://www.google.com/maps/place/21000+Dijon/][21000 Dijon (France)]] |
-| *Web pages:* | [[https://www2.dijon.inrae.fr/cesaer/membres/jean-sauveur-ay/][Academic]] / [[http://github.com/jsay/][GitHub]] / [[https://ideas.repec.org/e/pay77.html][RePEc]] / [[https://www.researchgate.net/profile/Jean_Sauveur_Ay][ResearchGate]] / [[https://scholar.google.fr/citations?user=arEwxlIAAAAJ&hl=fr][Scholar]]    |
+| *Phone:*     | 00.33.(0)3.80.77.23.19                                  |
+| *Email:*     | [[mailto:jean-sauveur.ay@inrae.fr][jean-sauveur.ay-at-inrae-dot-fr]]                         |
+| *Address:*   | [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], [[https://www.google.com/maps/?q%3D47.3097819,5.0644835][26 blvd Dr Petitjean]], [[https://www.google.com/maps/place/21000+Dijon/][21000 Dijon (France)]]  |
+| *Web pages:* | [[http://github.com/jsay/][GitHub]] / [[https://cesaer.dijon.hub.inrae.fr/membres/personnel-scientifique/ay-jean-sauveur][Institutional]] / [[https://ideas.repec.org/e/pay77.html][RePEc]] / [[https://www.researchgate.net/profile/Jean_Sauveur_Ay][ResearchGate]] / [[https://scholar.google.fr/citations?user=arEwxlIAAAAJ&hl=fr][Scholar]] |
 
 * Professional experience
 
@@ -82,34 +82,37 @@
 
 * Research interest
 
-  - Land Economics :: Land use choices and land price patterns in
-    relation to agricultural, environmental and urban
-    outcomes. Impacts of public policies related to land use and land
-    prices.
-  - Wine Economics :: Consumers' preferences for wine characteristics,
-    vineyard prices in relation to geographical indications and
-    environmental factors. Impacts of public policies related to the
-    wine sector.
-  - Applied Econometrics :: Spatial econometrics, geographically
-    weighted regression, causal inference, best unbiased predictions,
-    discrete choice models.
+  - Land Economics :: Study of land use decisions and land price
+    dynamics in relation to agricultural, environmental, and urban
+    outcomes. Analysis of the effects of public policies on land use
+    patterns and land values.
+  - Wine Economics :: Investigation of consumer preferences for wine
+    attributes, vineyard pricing linked to geographical indications,
+    and environmental influences. Evaluation of public policy impacts
+    on the wine sector.
+  - Applied Econometrics :: Expertise in spatial econometrics,
+    geographically weighted regression, causal inference, instrumental
+    variables, best linear unbiased prediction, and discrete choice
+    modeling.
 
 * Current papers
 
-   - *The signaling values of nested wine names* (with Julie Le
-     Gallo) [ [[https://wine-economics.org/wp-content/uploads/2021/05/AAWE_WP265.pdf][wp]] ] 
+   - *The value of grades for experience goods* (with Julie Le Gallo)
+     [ [[https://wine-economics.org/wp-content/uploads/2021/05/AAWE_WP265.pdf][wp]] ]
    - *Private and social efficiency of insecticide use against an
      insect-borne infectious disease* (with Estelle Gozlan and
      Emmanuel Paroissien) [ [[file:doc/RISCA-FILE.pdf][file]] ]
-   - *Accounting for homeowner mobility in net housing wealth
-     accumulation across professional occupations* (with Thibault Le
-     Corre) [ [[file:doc/PPL-FILE.pdf][file]] ]
-   - *Supporting homeownership cost-effectively according to policy
-     objectives: French evidence* (with Rémi Lei and Julie Le Gallo) [
-     [[file:doc/CEREM-FILE.pdf][file]] ]
+   - *Return on investment for promoting homeownership: The case of
+     the french interest-free loan policy* (with Rémi Lei and Julie Le
+     Gallo) [ [[file:doc/CEREM-FILE.pdf][file]] ]
    - *Does urban sprawl cause residential vacancy across French
      municipalities?* (with Mahamoudou Zore and Catherine Baumont) [
      [[file:doc/ZORE-FILE.pdf][file]] ]
+   - *The Dynamic Impact of Land-Use Changes on Soil Organic Carbon*
+     (with Liang Diao and Valentin Bellassen) [ [[file:doc/DSOIL-FILE.pdf][file]] ]
+   - *Strategic free-riding for pest control in organic-conventional
+     mixed landscapes* (with François Bareille and Vincent Martinet) [
+     [[file:doc/FVBIO-FILE.pdf][file]] ]
 
 * Publications
 ** Refereed papers (in English)
