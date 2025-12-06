@@ -202,7 +202,7 @@
    - *Vers une évaluation des coûts de la dégradation des sols :
      Éléments de cadrage, outil d'analyse et études de cas* (avec
      Noémie Pousse, Laurent Rigou et Laurent Thannberger). /Étude et
-     Gestion des Sols/, 2020, 27:147--161. [ [[file:bib/GPRF.bib][bib]] ; [[file:doc/ECOSOL-FILE.pdf][file]] ; [[https://www.afes.fr/publications/revue-etude-et-gestion-des-sols/volume-27-numero-1/][link]] ]
+     Gestion des Sols/, 2020, 27:147--161. [ [[file:bib/ESOL.bib][bib]] ; [[file:doc/ECOSOL-FILE.pdf][file]] ; [[https://www.afes.fr/ressources/numero-special-egs-fonctions-des-sols-et-services-ecosystemiques/][link]] ]
    - *Délivrer des permis de construire pour diminuer le coût du
      foncier? Une estimation par la demande de terre constructible*
      (avec Jean Cavailhès, Mohamed Hilal et Julie Le Gallo).
@@ -243,8 +243,11 @@
 
 * Communications
 
-  - 2025 :: *Colloque OMISEP* (June, Marseille, France) ; *Jeudis
-    Expertise Vigne & Vin* (April, Dijon, France).
+  - 2025 :: *Jeudis Expertise Vigne & Vin* (April, Dijon, France) ;
+    *Colloque OMISEP* (June, Marseille, France) ; *Conseil
+    scientifique FNSAFER* (October, Paris, France) ; *Conférence
+    Chaire UNESCO* (November, Dijon, France) ; *Séminaire FAR*
+    (November, Paris, France).
   - 2024 :: *Séminaire FAR* (June, Paris, France) ; *Séminaire INED*
     (June, Paris, France) ; *Final Meeting SERENA* (October, Orléans,
     France) ; *Journées de Recherches en Sciences Sociales* (December,
@@ -254,13 +257,15 @@
     (June, Paris, France) *Journées d'Étude des Sols* (June, Dijon,
     France) ; *Jeudis Expertise Vigne & Vin* (September, Dijon,
     France).
-  - 2022 :: *Wine and Spirit Seminar of the Burgundy School of
-    Business* (June, Dijon, France) ; *Association Française de
-    Sciences Économiques* (June, Dijon, France)
+  - 2022 :: *Séminaire FAR* (March, Paris, France) ; *Wine and Spirit
+    Seminar of the Burgundy School of Business* (June, Dijon, France)
+    ; *Association Française de Sciences Économiques* (June, Dijon,
+    France)
   - 2021 :: *Journées INRAE--SFER--CIRAD* (March, Anger, France) ;
-    *Atelier Vin et Société* (Institut d’études avancées de Paris) ;
-    *Séminaire SMART-LERECO* (October, Rennes, France) ; *Journées
-    Recherches en Sciences Sociales* (December, Toulouse, France)
+    *Atelier Vin et Société at Institut d’études avancées* (April,
+    Paris, France) ; *Séminaire SMART-LERECO* (October, Rennes,
+    France) ; *Journées Recherches en Sciences Sociales* (December,
+    Toulouse, France)
   - 2020 :: *Séminaire Vigne et Vins* (March, Dijon, France).
   - 2019 :: *World Conference on Natural Resource Modeling* (May,
     Montréal, Canada) ; *Transmission du Patrimoine Viticole en
@@ -340,14 +345,14 @@
    Economics (2), Économie et Statistique (2), Économie Rurale (3),
    Environmental Modeling and Assessment (2), Environment and Planning
    A (1), Environmental and Resource Economics (1), European Review of
-   Agricultural Economics (3), Gezoderma (1), International Journal of
+   Agricultural Economics (3), Geoderma (1), International Journal of
    Geographical Information Science (1), International Journal of
    Strategic Property Management (1), Journal of Agricultural
-   Economics (1), Journal of Environmental Management (3), Plos One
-   (1), Regional Studies (1), Review of Agricultural, Food and
-   Environmental Studies (2), Revue Économique (1), Revue d'Économie
-   Régionale et Urbaine (3), Spatial Economic Analysis (2), Spatial
-   Statistics (1), Sustainability (1).
+   Economics (1), Journal of Environmental Management (3), OENO One
+   (1), Plos One (1), Regional Studies (1), Review of Agricultural,
+   Food and Environmental Studies (2), Revue Économique (1), Revue
+   d'Économie Régionale et Urbaine (3), Spatial Economic Analysis (2),
+   Spatial Statistics (1), Sustainability (1).
 
 #+LaTeX: \vspace{.5cm}
 
@@ -367,5 +372,5 @@
      Econometrics and Statistics,
    - Member of the /Conseil d'orientation scientifique/ of the French
      association for agricultural economics (SFER),
-   - Other activities: [[https://distillerie-mazy.fr/][Distillerie Mazy]] in Burgundy and [[https://www.gigondas-vin.com/vigneron/domaine-raspail-ay/][Domaine
-     Raspail-Ay]] in Rhône Valley.
+   - Other: [[https://distillerie-mazy.fr/][Distillerie Mazy]] in Burgundy and [[https://www.gigondas-vin.com/vigneron/domaine-raspail-ay/][Domaine Raspail-Ay]] in
+     Rhône Valley.
