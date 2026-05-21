@@ -80,6 +80,7 @@
 * Professional experience
 
 | 2014 to now  | *Researcher* at INRAE, [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], Dijon             |
+| April 2026   | *Visiting scolar* at [[https://bren.ucsb.edu/][Bren School]], UC Santa Barbara   |
 | 2013 to 2014 | *Research fellow* at INRA, [[https://www6.versailles-grignon.inrae.fr/economie_publique_eng/][UMR Éco Pub]], Paris        |
 | 2011 to 2013 | *Postdoctoral fellow* at CNRS-MNHN, [[http://cesco.mnhn.fr/en][UMR Cesco]], Paris |
 
@@ -91,26 +92,26 @@
 
 * Current papers
 
-   - *The value of grades for experience goods* (with Julie Le Gallo)
-     [ [[https://wine-economics.org/wp-content/uploads/2021/05/AAWE_WP265.pdf][wp]] ]
+   - *Prestigious wine grade designation* (with Julie Le Gallo) [ [[https://wine-economics.org/wp-content/uploads/2021/05/AAWE_WP265.pdf][wp]] ]
    - *Private and social efficiency of insecticide use against an
      insect-borne infectious disease* (with Estelle Gozlan and
      Emmanuel Paroissien) [ [[file:doc/RISCA-FILE.pdf][file]] ]
    - *Return on investment for promoting homeownership: The case of
-     the french interest-free loan policy* (with Rémi Lei and Julie Le
+     the French interest-free loan policy* (with Rémi Lei and Julie Le
      Gallo) [ [[file:doc/CEREM-FILE.pdf][file]] ]
    - *Does urban sprawl cause residential vacancy across French
      municipalities?* (with Mahamoudou Zore and Catherine Baumont) [
      [[file:doc/ZORE-FILE.pdf][file]] ]
    - *The dynamic impact of land-use changes on soil organic carbon*
      (with Liang Diao and Valentin Bellassen) [ [[file:doc/DSOIL-FILE.pdf][file]] ]
-   - *Strategic free-riding for pest control in organic-conventional
-     mixed landscapes* (with François Bareille and Vincent Martinet) [
-     [[file:doc/FVBIO-FILE.pdf][file]] ]
-   
+
 * Publications
 ** Refereed papers (in English)
 
+   - *Strategic free-riding in pest control: Theory and evidence in
+     organic-conventional mixed landscapes*. (with François Bareille
+     and Vincent Martinet) /Journal of Environmental Economics and
+     Management/, 2026, 138 [ [[https://www.sciencedirect.com/science/article/pii/S0095069626000665][link]] ]
    - *The social stratification of homeowners' housing wealth:*
      *Bringing a dynamic approach through the price gap index*. (with
      Thibault Le Corre) /Environment and Planning B: Urban Analytics
@@ -204,7 +205,7 @@
      Noémie Pousse, Laurent Rigou et Laurent Thannberger). /Étude et
      Gestion des Sols/, 2020, 27:147--161. [ [[file:bib/ESOL.bib][bib]] ; [[file:doc/ECOSOL-FILE.pdf][file]] ; [[https://www.afes.fr/ressources/numero-special-egs-fonctions-des-sols-et-services-ecosystemiques/][link]] ]
    - *Délivrer des permis de construire pour diminuer le coût du
-     foncier? Une estimation par la demande de terre constructible*
+     foncier ? Une estimation par la demande de terre constructible*
      (avec Jean Cavailhès, Mohamed Hilal et Julie Le Gallo).
      /Économie et Statistiques/, 2018, 500-501-502, 45--67. [ [[file:doc/PCPXf-FILE.pdf][file]] ;
      [[file:doc/PCPX-SUP.pdf][sup]] ; [[https://insee.fr/fr/statistiques/3621977?sommaire=3622116][link]] ; [[file:doc/PCPXf-PRES.pdf][pres]] ]
@@ -217,7 +218,7 @@
 
 ** Other publications
 
-   - *Préserver la qualité des sols: vers un référentiel
+   - *Préserver la qualité des sols: Vers un référentiel
      d’indicateurs.* (avec Isabelle Cousin, Maylis Desrousseaux,
      Sophie Leenhardt et autres). /Expertise collective INRAE/, 2025,
      [ [[https://college-de-france.hal.science/hal-04934694/][link]] ]
@@ -228,9 +229,9 @@
      Valentin Bellassen and Mohamed Hilal). /UMR CESAER Working Papers
      2020-1/, 2020, [ [[https://hal.inrae.fr/hal-02894116][link]] ]
    - *Sols artificialisés et processus d'artificialisation des sols:
-     déterminants, impacts et leviers d'action* (Béatrice Béchet, Yves
-     Le Bissonnais, Anne Ruas, et al.) /Expertise collective
-     INRA-IFSTTAR/, 2017, [ [[https://www.inrae.fr/actualites/sols-artificialises-processus-dartificialisation-sols][link]] ]
+     déterminants, impacts et leviers d'action* (avec Béatrice Béchet,
+     Yves Le Bissonnais, Anne Ruas, Bertrand Schmitt et autres)
+     /Expertise collective INRA-IFSTTAR/, 2017, [ [[https://www.inrae.fr/actualites/sols-artificialises-processus-dartificialisation-sols][link]] ]
    - *Improving the estimates of agricultural land valuation: report
      to the World Bank* (with Philippe Bontems, Raja Chakir and Laure
      Latruffe). /HAL-01462707/, 2015 [ [[https://hal.archives-ouvertes.fr/hal-01462707][link]] ] 
@@ -243,6 +244,7 @@
 
 * Communications
 
+  - 2026 :: *emLab seminary* (April, Santa Barbara, USA)
   - 2025 :: *Jeudis Expertise Vigne & Vin* (April, Dijon, France) ;
     *Colloque OMISEP* (June, Marseille, France) ; *Conseil
     scientifique FNSAFER* (October, Paris, France) ; *Conférence
@@ -328,6 +330,7 @@
 
 | *Course*       | *Place*                | *Hours* | *Formation* | *Period*           |
 |----------------+------------------------+---------+-------------+--------------------|
+| Wine Economics | Institut Agro Dijon    |       3 | Postgrad.   | 2016, 2026 (2 yrs) |
 | Econometrics   | SciencesPo Dijon       |   24/48 | Undergrad.  | 2018--2026 (8 yrs) |
 | Economics      | SciencesPo Dijon       |      48 | Undergrad.  | 2016--2021 (5 yrs) |
 | Land Economics | Univ. of Franche-Comté |       6 | Postgrad.   | 2023 (1 yrs)       |
@@ -348,16 +351,18 @@
    Agricultural Economics (3), Geoderma (1), International Journal of
    Geographical Information Science (1), International Journal of
    Strategic Property Management (1), Journal of Agricultural
-   Economics (1), Journal of Environmental Management (3), OENO One
-   (1), Plos One (1), Regional Studies (1), Review of Agricultural,
-   Food and Environmental Studies (2), Revue Économique (1), Revue
-   d'Économie Régionale et Urbaine (3), Spatial Economic Analysis (2),
-   Spatial Statistics (1), Sustainability (1).
+   Economics (1), Journal of Environmental Management (3), Land
+   Economics (1), OENO One (1), Plos One (1), Regional Studies (1),
+   Review of Agricultural, Food and Environmental Studies (2), Revue
+   Économique (1), Revue d'Économie Régionale et Urbaine (3), Spatial
+   Economic Analysis (2), Spatial Statistics (1), Sustainability (1).
 
 #+LaTeX: \vspace{.5cm}
 
 ** Miscellaneous
 
+   - Coordinator of FAR network about Agricultural and Rural Lands at
+     INRAE,
    - Consultant and Expert for INAO, the French National Institute of
      the Signs of Quality and Origin,
    - Consultant for Inter-Rhône, the organization of wine producers
