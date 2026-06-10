@@ -80,7 +80,7 @@
 * Professional experience
 
 | 2014 to now  | *Researcher* at INRAE, [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], Dijon             |
-| April 2026   | *Visiting scolar* at [[https://bren.ucsb.edu/][Bren School]], UC Santa Barbara   |
+| April 2026   | *Visiting scholar* at [[https://bren.ucsb.edu/][Bren School]], UC Santa Barbara  |
 | 2013 to 2014 | *Research fellow* at INRA, [[https://www6.versailles-grignon.inrae.fr/economie_publique_eng/][UMR Éco Pub]], Paris        |
 | 2011 to 2013 | *Postdoctoral fellow* at CNRS-MNHN, [[http://cesco.mnhn.fr/en][UMR Cesco]], Paris |
 
@@ -344,7 +344,7 @@
 #+LaTeX: \vspace{.5cm}
 
    Acta Oeconomica (1), Agricultural Economics (1), American Journal
-   of Agricultural Economics (1), Applied Economics (1), Ecological
+   of Agricultural Economics (2), Applied Economics (1), Ecological
    Economics (2), Économie et Statistique (2), Économie Rurale (3),
    Environmental Modeling and Assessment (2), Environment and Planning
    A (1), Environmental and Resource Economics (1), European Review of
