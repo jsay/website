@@ -1,5 +1,5 @@
-#+TITLE:                Jean-Sauveur Ay
-#+AUTHOR:               jsay@inra.fr
+#+TITLE:            Jean-Sauveur Ay
+#+AUTHOR:           jsay@inra.fr
 #+EXPORT_FILE_NAME: index
 #+STARTUP:          fold
 #+LaTeX_CLASS:      CuriVitae
@@ -13,7 +13,8 @@
 #+ATTR_HTML: :rules none
 :END:
 
-#+HTML: <a target="_blank" rel="noopener noreferrer" href="index.pdf">[Click here for the .pdf version]</a>
+#+HTML: <p class="subtitle">Researcher in Land Economics at INRAE</p>
+#+HTML: <div style="text-align: center;"> <a target="_blank" rel="noopener noreferrer" href="index.pdf">[Click here for the .pdf version]</a> </div>
 
 * Code for export                            :noexport:
 ** LaTeX
@@ -21,7 +22,7 @@
 #+begin_src emacs-lisp :eval yes :results silent
 (add-to-list 'org-latex-classes
 	     '("CuriVitae"
-	       "\\documentclass[10pt, a4paper]{./style}
+	       "\\documentclass[12pt, a4paper]{./style}
                   [NO-DEFAULT-PACKAGES]
                   \\usepackage{natbib}
                   \\usepackage{comment, csquotes}
@@ -66,23 +67,24 @@
 | *Phone:*     | 00.33.(0)3.80.77.23.19                                  |
 | *Email:*     | [[mailto:jean-sauveur.ay@inrae.fr][jean-sauveur.ay-at-inrae-dot-fr]]                         |
 | *Address:*   | [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], [[https://www.google.com/maps/?q%3D47.3097819,5.0644835][26 blvd Dr Petitjean]], [[https://www.google.com/maps/place/21000+Dijon/][21000 Dijon (France)]]  |
-| *Web pages:* | [[http://github.com/jsay/][GitHub]] / [[https://cesaer.dijon.hub.inrae.fr/membres/personnel-scientifique/ay-jean-sauveur][Institutional]] / [[https://ideas.repec.org/e/pay77.html][RePEc]] / [[https://www.researchgate.net/profile/Jean_Sauveur_Ay][ResearchGate]] / [[https://scholar.google.fr/citations?user=arEwxlIAAAAJ&hl=fr][Scholar]] |
+| *Web pages:* | [[http://github.com/jsay/][GitHub]] / [[https://cesaer.dijon.hub.inrae.fr/membres/personnel-scientifique/ay-jean-sauveur][Laboratory]] / [[https://ideas.repec.org/e/pay77.html][RePEc]] / [[https://www.researchgate.net/profile/Jean_Sauveur_Ay][ResearchGate]] / [[https://scholar.google.fr/citations?user=arEwxlIAAAAJ&hl=fr][Scholar]] |
 
 * Research interest
+#+Latex: \vspace{.5cm}
 
-  - Land Economics :: Inter-disciplinary researches on agricultural,
-    environmental, and urban outcomes,
-  - Wine Economics :: Economics of geographical indications,
-    consumers' preferences, and pest diseases,
-  - Applied Econometrics :: Causal inference, spatial econometrics,
-    and more structural approaches.
+  My research combines theoretical and empirical approaches
+  in land economics to generate evidence that supports
+  better public policies. I specialize in wine economics and
+  enjoy collaborating across disciplines to address
+  agricultural, environmental, and urban challenges.
+#+Latex: \vspace{.5cm}
 
 * Professional experience
 
-| 2014 to now  | *Researcher* at INRAE, [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], Dijon             |
-| April 2026   | *Visiting scholar* at [[https://bren.ucsb.edu/][Bren School]], UC Santa Barbara  |
-| 2013 to 2014 | *Research fellow* at INRA, [[https://www6.versailles-grignon.inrae.fr/economie_publique_eng/][UMR Éco Pub]], Paris        |
-| 2011 to 2013 | *Postdoctoral fellow* at CNRS-MNHN, [[http://cesco.mnhn.fr/en][UMR Cesco]], Paris |
+| 2014 to now    | *Researcher* at INRAE, [[https://www2.dijon.inrae.fr/cesaer/en/axis/][UMR Cesaer]], Dijon             |
+| April-May 2026 | *Visiting scholar* at [[https://bren.ucsb.edu/][Bren School]], UC Santa Barbara  |
+| 2013 to 2014   | *Research fellow* at INRA, [[https://www6.versailles-grignon.inrae.fr/economie_publique_eng/][UMR Éco Pub]], Paris        |
+| 2011 to 2013   | *Postdoctoral fellow* at CNRS-MNHN, [[http://cesco.mnhn.fr/en][UMR Cesco]], Paris |
 
 * Education
 
@@ -108,139 +110,160 @@
 * Publications
 ** Refereed papers (in English)
 
-   - *Strategic free-riding in pest control: Theory and evidence in
-     organic-conventional mixed landscapes*. (with François Bareille
-     and Vincent Martinet) /Journal of Environmental Economics and
-     Management/, 2026, 138 [ [[https://www.sciencedirect.com/science/article/pii/S0095069626000665][link]] ]
+   - *Housing wealth beyond prices: Individual portfolios,
+     distant* *assets, and transfers in France 2011–2022*
+     (with Rémi Lei, Julie Le Gallo, and Olivier Dupré),
+     /Review of Income and Wealth/, 2026
+   - *Strategic free-riding in pest control: Theory and
+     evidence in organic-conventional mixed landscapes*
+     (with François Bareille and Vincent Martinet), /Journal
+     of Environmental Economics and Management/, 2026, 138 [
+     [[https://www.sciencedirect.com/science/article/pii/S0095069626000665][link]] ]
    - *The social stratification of homeowners' housing wealth:*
      *Bringing a dynamic approach through the price gap index*. (with
      Thibault Le Corre) /Environment and Planning B: Urban Analytics
      and City Science/, 2025, 103(2): 523--542 [ [[file:bib/PPL.bib][bib]] ; [[file:doc/PPL-FILE.pdf][file]] ; [[https://github.com/jsay/PriceGapIndex][online]] ;
-     [[https://journals.sagepub.com/doi/10.1177/23998083251339296][link]] ]
+     [[https://journals.sagepub.com/doi/10.1177/23998083251339296][link]]\nbsp{}]
    - *External costs of high-voltage overhead transmission lines:
-     Evidence from a causal approach in rural France*. (with Tina
-     Rambonilaza and Jean Dubé). /Environmental Impact Assessment
-     Review/, 2024, 109(107639). [ [[file:bib/MDFD.bib][bib]] ; [[file:doc/HVTOL-FILE.pdf][file]] ; [[https://www.sciencedirect.com/science/article/pii/S0195925524002269][link]] ]
-   - *Building integrated plant health surveillance: a proactive
-     research agenda for anticipating and mitigating disease and pest
-     emergence* (with S. Soubeyrand, A. Estoup, G. Thébaud and
-     C. E. Morris and others). /CABI Agriculture and Bioscience/,
-     2024, 5(1), 72. [ [[file:bib/MDFD.bib][bib]] ; [[https://link.springer.com/article/10.1186/s43170-024-00273-8][link]] ]
-   - *Climate-dependent scenarios of land use for biodiversity and
-     ecosystem services in the New Aquitaine region* (with
-     N. A. Andriamanantena, C. Gaufreteau and L. Doyen). /Regional
-     Environmental Change/, 2022, 22(3): 1--15 [ [[file:bib/MDFD.bib][bib]] ; [[file:doc/CDSA-FILE.pdf][file]] ; [[file:doc/CDSA-SUP.pdf][sup]] ;
-     [[https://link.springer.com/article/10.1007/s10113-022-01964-6][link]] ].
-   - *Field and landscape risk factors impacting Flavescence dorée
-     infection:* *Insights from spatial Bayesian modelling in the
-     Bordeaux vineyards* (with H. K. Adrakey, S. Malembic-Maher,
-     A. Rusch, L. Riley, L. Ramalanjaona and
-     F. Fabre). /Phytopatology/, 2022, 112(8): 1686--1697 [ [[file:bib/MDFD.bib][bib]] ; [[file:doc/MDFD-FILE.pdf][file]]
-     ; [[https://apsjournals.apsnet.org/doi/10.1094/PHYTO-10-21-0449-R][link]] ]
+     Evidence from a causal approach in rural France* (with Tina
+     Rambonilaza and Jean Dubé), /Environmental Impact Assessment
+     Review/, 2024, 109(107639) [ [[file:bib/MDFD.bib][bib]] ; [[file:doc/HVTOL-FILE.pdf][file]] ; [[https://www.sciencedirect.com/science/article/pii/S0195925524002269][link]] ]
+   - *Building integrated plant health surveillance: a
+     proactive research* *agenda for anticipating and
+     mitigating disease and pest emergence* (with
+     S. Soubeyrand, A. Estoup, G. Thébaud, and C. E. Morris
+     and others). /CABI Agriculture and Bioscience/, 2024,
+     5(1), 72. [ [[file:bib/MDFD.bib][bib]] ; [[https://link.springer.com/article/10.1186/s43170-024-00273-8][link]] ]
+   - *Climate-dependent scenarios of land use for
+     biodiversity and ecosystem* *services in the New
+     Aquitaine region* (with N. A. Andriamanantena,
+     C. Gaufreteau and L. Doyen), /Regional Environmental
+     Change/, 2022, 22(3): 1--15 [ [[file:bib/MDFD.bib][bib]] ; [[file:doc/CDSA-FILE.pdf][file]] ; [[file:doc/CDSA-SUP.pdf][sup]] ; [[https://link.springer.com/article/10.1007/s10113-022-01964-6][link]]
+     ].
+   - *Field and landscape risk factors impacting Flavescence
+     dorée infection:* *Insights from spatial Bayesian
+     modelling in the Bordeaux vineyards* (with
+     H. K. Adrakey, S. Malembic-Maher, A. Rusch, L. Riley,
+     L. Ramalanjaona and F. Fabre), /Phytopatology/, 2022,
+     112(8): 1686--1697 [ [[file:bib/MDFD.bib][bib]] ; [[file:doc/MDFD-FILE.pdf][file]] ; [[https://apsjournals.apsnet.org/doi/10.1094/PHYTO-10-21-0449-R][link]] ]
    - *The informational content of geographical
-     indications*. /American Journal of Agricultural Economics/, 2021,
-     103(2): 523--542 [ [[file:bib/GEOIND.bib][bib]] ; [[file:doc/GEOIND-FILE.pdf][file]] ; [[file:doc/GEOIND-SUP.pdf][sup]] ; [[https://github.com/jsay/geoInd/][online]] ; [[https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12100][link]] ]
-   - *Willingness-to-pay for reshuffling geographical indications*
-     (with Monia Saïdi, Stéphan Marette and Christophe
-     Martin). /Journal of Wine Economics/, 2020, 15(1): 95--111 [ [[file:bib/RFGI.bib][bib]]
-     ; [[file:doc/RFGI-FILE.pdf][file]] ; [[file:doc/RFGI-SUP.pdf][sup]] ; [[https://github.com/jsay/reshufGI/][online]] ; [[https://www.cambridge.org/core/journals/journal-of-wine-economics/article/abs/willingnesstopay-for-reshuffling-geographical-indications/FD4DB1BCA54C1E204773BF861965BEBD][link]] ]
-   - *Disease dispersion as a spatial interaction: The case of
-     Flavescence Dorée* (with Estelle Gozlan). /Natural Resource
-     Modeling/, 2020, 33:e12265 [ [[file:bib/SPFD.bib][bib]] ; [[file:doc/SPFD-FILE.pdf][file]] ; [[file:doc/SPFD-PRES.pdf][pres]] ; [[https://onlinelibrary.wiley.com/doi/full/10.1111/nrm.12265][link]] ]
-   - *Bioeconomic impacts of agroforestry policies in France* (with
-     Lauriane Mouysset, Claire Rais Assa, Frédéric Jiguet, Romain
-     Lorrilière, Luc Doyen). /Land Use Policy/, 2019, 85: 239--248.  [
-     [[file:bib/BIOFOR.bib][bib]] ; [[https://www.sciencedirect.com/science/article/abs/pii/S0264837718308160][link]] ;  [[http://cahiersdugretha.u-bordeaux4.fr/2017/2017-05.pdf][wp]] ]
-   - *Does issuing building permits reduce the cost of land? An
-     estimation based on the demand for building land in France* (with
-     Jean Cavailhès, Mohamed Hilal and Julie Le Gallo). /Economics and
-     Statistics/, 2018, 500-501-502, 45--67.  [ [[file:bib/PCPX.bib][bib]] ; [[file:doc/PCPX-FILE.pdf][file]] ; [[file:doc/PCPX-SUP.pdf][sup]] ;
-     [[https://insee.fr/en/statistiques/3621981?sommaire=3622133][link]] ]
-   - *Nonlinear impact estimation in spatial autoregressive models*
-     (with Kassoum Ayouba and Julie Le Gallo). /Economics Letters/,
-     2018, 163: 59--64. [ [[file:bib/NLSP.bib][bib]] ; [[file:doc/NLSP-FILE.pdf][file]] ; [[file:doc/NLSP-SUP.pdf][sup]] ; [[https://www.sciencedirect.com/science/article/pii/S0165176517304846][link]] ]
-   - *Distance decay in the willingness to pay for wine: Disentangling
-     local and organic attributes* (with Raja Chakir, and Stéphan
-     Marette). /Environmental and Resource Economics/, 2017, 68(4):
+     indications*, /American Journal of Agricultural
+     Economics/, 2021, 103(2): 523--542 [ [[file:bib/GEOIND.bib][bib]] ; [[file:doc/GEOIND-FILE.pdf][file]] ; [[file:doc/GEOIND-SUP.pdf][sup]] ;
+     [[https://github.com/jsay/geoInd/][online]] ; [[https://onlinelibrary.wiley.com/doi/full/10.1111/ajae.12100][link]] ]
+   - *Willingness-to-pay for reshuffling geographical
+     indications* (with Monia Saïdi, Stéphan Marette and
+     Christophe Martin), /Journal of Wine Economics/, 2020,
+     15(1): 95--111 [ [[file:bib/RFGI.bib][bib]] ; [[file:doc/RFGI-FILE.pdf][file]] ; [[file:doc/RFGI-SUP.pdf][sup]] ; [[https://github.com/jsay/reshufGI/][online]] ; [[https://www.cambridge.org/core/journals/journal-of-wine-economics/article/abs/willingnesstopay-for-reshuffling-geographical-indications/FD4DB1BCA54C1E204773BF861965BEBD][link]] ]
+   - *Disease dispersion as a spatial interaction: The case
+     of Flavescence Dorée* (with Estelle Gozlan), /Natural
+     Resource Modeling/, 2020, 33:e12265 [ [[file:bib/SPFD.bib][bib]] ; [[file:doc/SPFD-FILE.pdf][file]] ; [[file:doc/SPFD-PRES.pdf][pres]]
+     ; [[https://onlinelibrary.wiley.com/doi/full/10.1111/nrm.12265][link]] ]
+   - *Bioeconomic impacts of agroforestry policies in
+     France* (with Lauriane Mouysset, Claire Rais Assa,
+     Frédéric Jiguet, Romain Lorrilière, Luc Doyen), /Land
+     Use Policy/, 2019, 85: 239--248.  [ [[file:bib/BIOFOR.bib][bib]] ; [[https://www.sciencedirect.com/science/article/abs/pii/S0264837718308160][link]] ; [[http://cahiersdugretha.u-bordeaux4.fr/2017/2017-05.pdf][wp]] ]
+   - *Does issuing building permits reduce the cost of land?
+     An estimation based* *on the demand for building land
+     in France* (with Jean Cavailhès, Mohamed Hilal and
+     Julie Le Gallo), /Economics and Statistics/, 2018,
+     500-501-502, 45--67.  [ [[file:bib/PCPX.bib][bib]] ; [[file:doc/PCPX-FILE.pdf][file]] ; [[file:doc/PCPX-SUP.pdf][sup]] ; [[https://insee.fr/en/statistiques/3621981?sommaire=3622133][link]] ]
+   - *Nonlinear impact estimation in spatial autoregressive
+     models* (with Kassoum Ayouba and Julie Le Gallo),
+     /Economics Letters/, 2018, 163: 59--64. [ [[file:bib/NLSP.bib][bib]] ; [[file:doc/NLSP-FILE.pdf][file]] ;
+     [[file:doc/NLSP-SUP.pdf][sup]] ; [[https://www.sciencedirect.com/science/article/pii/S0165176517304846][link]] ]
+   - *Distance decay in the willingness to pay for wine:
+     Disentangling local and organic attributes* (with Raja
+     Chakir, and Stéphan Marette), /Environmental and
+     Resource Economics/, 2017, 68(4):
      997--1019. [\nbsp{}[[file:bib/DWTP.bib][bib]] ; [[file:doc/DWTP-FILE.pdf][file]] ; [[file:doc/DWTP-PRES.pdf][pres]] ; [[file:doc/DWTP-SUP.pdf][sup]] ; [[https://link.springer.com/article/10.1007/s10640-016-0057-8][link]] ]
-   - *Aggregated versus individual land-use models: Modeling spatial
-     autocorrelation to increase predictive accuracy* (with Raja
-     Chakir and Julie Le Gallo). /Environmental Modeling and
-     Assessment/, 2017, 22(2): 129--145. [ [[file:bib/LUMP.bib][bib]] ; [[file:doc/LUMP-FILE.pdf][file]] ; [[file:doc/LUMP-SUP.pdf][sup]] ; [[https://link.springer.com/article/10.1007/s10666-016-9523-5][link]] ;
-     [[https://github.com/jsay/spatial-pred-R][online]] ;  [[https://www6.versailles-grignon.inra.fr/economie_publique/Media/fichiers/Working-Papers/Working-Papers-2014/WP_2014_02][wp]] ]
-   - *The economics of land use reveals a selection bias in tree
-     species distribution models* (with Joannès Guillemot, Nicolas
-     Martin-St Paul, Luc Doyen, and Paul Leadley). /Global Ecology and
-     Biogeography/, 2017, 26(1):65--77. [ [[file:bib/NTSDM.bib][bib]] ; [[file:doc/NTSDM-FILE.pdf][file]] ; [[file:doc/NTSDM-PRES.pdf][pres]] ; [[file:doc/NTSDM-SUP.pdf][sup]] ;
-     [[https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12514][link]] ]
-   - *The informational content of land price and its relevance for
-     environmental issues* (with Laure Latruffe). /Review of
-     Environmental and Resource Economics/, 2016, 10(3-4):183--226. [
-     [[file:bib/RLP.bib][bib]] ; [[file:doc/RLP-FILE.pdf][file]] ; [[https://www.nowpublishers.com/article/Details/IRERE-0086][link]] ; [[http://www.ceps.be/book/empirical-content-present-value-model-survey-instrumental-uses-farmland-prices.html][wp]] ]
-   - *Integrated models, scenarios and dynamics of climate, land use
-     and common birds* (with Raja Chakir, Luc Doyen, Frédéric Jiguet
-     and Paul Leadley). /Climatic Change/, 2014, 126(1-2):13--30. [
-     [[file:bib/CILE.bib][bib]] ; [[file:doc/CILE-FILE.pdf][file]] ; [[file:doc/CILE-SUP.pdf][sup]] ; [[https://link.springer.com/article/10.1007/s10584-014-1202-4][link]] ; [[https://mobilis-a4ac2.firebaseapp.com/index.html][online]]]
-   - *Efficiency and equity of land conservation schemes: The effect
-     of policy scale* (with Claude Napoléone). /Journal of
-     Environmental Management/, 2014, 129:190--198. [ [[file:bib/EELC.bib][bib]] ; [[http://www.sciencedirect.com/science/article/pii/S0301479713004829][link]] ]
-   - *A spatial hedonic approach on land use change anticipations*
-     (with Ghislain Geniaux and Claude Napoléone). /Journal of
-     Regional Science/, 2012, 51(5):967--986. [ [[file:bib/SPHED.bib][bib]] ; [[http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9787.2011.00721.x/abstract][link]] ]
+   - *Aggregated versus individual land-use models: Modeling
+     spatial autocorrelation* *to increase predictive
+     accuracy* (with Raja Chakir and Julie Le Gallo),
+     /Environmental Modeling and Assessment/, 2017, 22(2):
+     129--145. [ [[file:bib/LUMP.bib][bib]] ; [[file:doc/LUMP-FILE.pdf][file]] ; [[file:doc/LUMP-SUP.pdf][sup]] ; [[https://link.springer.com/article/10.1007/s10666-016-9523-5][link]] ; [[https://github.com/jsay/spatial-pred-R][online]] ; [[https://www6.versailles-grignon.inra.fr/economie_publique/Media/fichiers/Working-Papers/Working-Papers-2014/WP_2014_02][wp]] ]
+   - *The economics of land use reveals a selection bias in
+     tree species distribution models* (with Joannès
+     Guillemot, Nicolas Martin-St Paul, Luc Doyen, and Paul
+     Leadley), /Global Ecology and Biogeography/, 2017,
+     26(1):65--77. [ [[file:bib/NTSDM.bib][bib]] ; [[file:doc/NTSDM-FILE.pdf][file]] ; [[file:doc/NTSDM-PRES.pdf][pres]] ; [[file:doc/NTSDM-SUP.pdf][sup]] ; [[https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12514][link]] ]
+   - *The informational content of land price and its
+     relevance for environmental issues* (with Laure
+     Latruffe), /Review of Environmental and Resource
+     Economics/, 2016, 10(3-4):183--226. [ [[file:bib/RLP.bib][bib]] ; [[file:doc/RLP-FILE.pdf][file]] ; [[https://www.nowpublishers.com/article/Details/IRERE-0086][link]]
+     ; [[http://www.ceps.be/book/empirical-content-present-value-model-survey-instrumental-uses-farmland-prices.html][wp]] ]
+   - *Integrated models, scenarios and dynamics of climate,
+     land use and common birds* (with Raja Chakir, Luc
+     Doyen, Frédéric Jiguet and Paul Leadley), /Climatic
+     Change/, 2014, 126(1-2):13--30. [ [[file:bib/CILE.bib][bib]] ; [[file:doc/CILE-FILE.pdf][file]] ; [[file:doc/CILE-SUP.pdf][sup]] ;
+     [[https://link.springer.com/article/10.1007/s10584-014-1202-4][link]] ; [[https://mobilis-a4ac2.firebaseapp.com/index.html][online]]]
+   - *Efficiency and equity of land conservation schemes:
+     The effect of policy scale* (with Claude Napoléone),
+     /Journal of Environmental Management/, 2014,
+     129:190--198. [ [[file:bib/EELC.bib][bib]] ; [[http://www.sciencedirect.com/science/article/pii/S0301479713004829][link]] ]
+   - *A spatial hedonic approach on land use change
+     anticipations* (with Ghislain Geniaux and Claude
+     Napoléone), /Journal of Regional Science/, 2012,
+     51(5):967--986. [ [[file:bib/SPHED.bib][bib]] ; [[http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9787.2011.00721.x/abstract][link]] ]
 
 ** Refereed papers (in French)
 
-   - *Mises en oeuvre de démarches agroécologiques dans des régions
-     viticoles françaises* (avec Patrice This, Emna Troudi, Marie
-     Thiollet-Scholtus et autres). /Innovations Agronomiques/, 2025. [
-     [[file:bib/DNPA.bib][bib]] ; [[https://hal.inrae.fr/hal-05010342v1/document][link]] ]
-   - *La capitalisation du prix des vins dans le prix des vignes en
-     Côte-d’Or* (avec Abdoul Diallo et Hai-Vu Pham). /Revue
-     Économique/, 2023, 74 (1). [ [[file:bib/DNPA.bib][bib]] ; [[file:doc/VINPX-FILE.pdf][file]] ]
-   - *Les déterminants naturels et politiques des AOC viticoles de
-     Côte-d’Or* (avec Mohamed Hilal). /CyberGéo/, 2021. [ [[file:bib/DNPA.bib][bib]] ; [[file:doc/DNPA-FILE.pdf][file]] ;
-     [[file:doc/DNPA-SUP.pdf][sup]] ; [[https://journals.openedition.org/cybergeo/36443][link]] ]
-   - *Vers une évaluation des coûts de la dégradation des sols :
-     Éléments de cadrage, outil d'analyse et études de cas* (avec
-     Noémie Pousse, Laurent Rigou et Laurent Thannberger). /Étude et
-     Gestion des Sols/, 2020, 27:147--161. [ [[file:bib/ESOL.bib][bib]] ; [[file:doc/ECOSOL-FILE.pdf][file]] ; [[https://www.afes.fr/ressources/numero-special-egs-fonctions-des-sols-et-services-ecosystemiques/][link]] ]
-   - *Délivrer des permis de construire pour diminuer le coût du
-     foncier ? Une estimation par la demande de terre constructible*
-     (avec Jean Cavailhès, Mohamed Hilal et Julie Le Gallo).
-     /Économie et Statistiques/, 2018, 500-501-502, 45--67. [ [[file:doc/PCPXf-FILE.pdf][file]] ;
-     [[file:doc/PCPX-SUP.pdf][sup]] ; [[https://insee.fr/fr/statistiques/3621977?sommaire=3622116][link]] ; [[file:doc/PCPXf-PRES.pdf][pres]] ]
-   - *Information sur l'hétérogénéité de la terre et délégation de la
-     régulation foncière.* /Revue d'Économie Politique/, 2015,
-     125(3):453--474. [ [[file:bib/IFHT.bib][bib]] ; [[https://www.cairn.info/revue-d-economie-politique-2015-3-page-453.htm][link]] ; [[http://ideas.repec.org/p/ceo/wpaper/32.html][wp]] ]
-   - *La gestion publique des ressources foncières: Entre évaluation
-     de la rareté et choix d'usage* (avec Claude Napoléone). /Revue
-     des Régions Arides/, 2013, 30(1):177--190. [ [[file:bib/GPRF.bib][bib]] ; [[https://www.researchgate.net/profile/Claude_Napoleone/publication/268075060_La_gestion_publique_des_ressources_foncieres_entre_evaluation_de_la_rarete_et_choix_d'usages/links/5460bdd20cf295b5616376de/La-gestion-publique-des-ressources-foncieres-entre-evaluation-de-la-rarete-et-choix-dusages.pdf][file]] ]
+   - *Mises en oeuvre de démarches agroécologiques dans des
+     régions viticoles françaises* (avec Patrice This, Emna
+     Troudi, Marie Thiollet-Scholtus et autres),
+     /Innovations Agronomiques/, 2025. [ [[file:bib/DNPA.bib][bib]] ; [[https://hal.inrae.fr/hal-05010342v1/document][link]] ]
+   - *La capitalisation du prix des vins dans le prix des
+     vignes en Côte-d’Or* (avec Abdoul Diallo et Hai-Vu
+     Pham), /Revue Économique/, 2023, 74 (1). [ [[file:bib/DNPA.bib][bib]] ; [[file:doc/VINPX-FILE.pdf][file]] ]
+   - *Les déterminants naturels et politiques des AOC
+     viticoles de Côte-d’Or* (avec Mohamed Hilal),
+     /CyberGéo/, 2021. [ [[file:bib/DNPA.bib][bib]] ; [[file:doc/DNPA-FILE.pdf][file]] ; [[file:doc/DNPA-SUP.pdf][sup]] ; [[https://journals.openedition.org/cybergeo/36443][link]] ]
+   - *Vers une évaluation des coûts de la dégradation des
+     sols : Éléments* *de cadrage, outil d'analyse et études
+     de cas* (avec Noémie Pousse, Laurent Rigou et Laurent
+     Thannberger), /Étude et Gestion des Sols/, 2020,
+     27:147--161. [ [[file:bib/ESOL.bib][bib]] ; [[file:doc/ECOSOL-FILE.pdf][file]] ; [[https://www.afes.fr/ressources/numero-special-egs-fonctions-des-sols-et-services-ecosystemiques/][link]] ]
+   - *Délivrer des permis de construire pour diminuer le
+     coût du foncier ?* *Une estimation par la demande de
+     terre constructible* (avec Jean Cavailhès, Mohamed
+     Hilal et Julie Le Gallo), /Économie et Statistiques/,
+     2018, 500-501-502, 45--67. [ [[file:doc/PCPXf-FILE.pdf][file]] ; [[file:doc/PCPX-SUP.pdf][sup]] ; [[https://insee.fr/fr/statistiques/3621977?sommaire=3622116][link]] ; [[file:doc/PCPXf-PRES.pdf][pres]] ]
+   - *Information sur l'hétérogénéité de la terre et
+     délégation de la régulation foncière*, /Revue
+     d'Économie Politique/, 2015, 125(3):453--474. [ [[file:bib/IFHT.bib][bib]] ;
+     [[https://www.cairn.info/revue-d-economie-politique-2015-3-page-453.htm][link]] ; [[http://ideas.repec.org/p/ceo/wpaper/32.html][wp]] ]
+   - *La gestion publique des ressources foncières: Entre
+     évaluation de la rareté et choix d'usage* (avec Claude
+     Napoléone), /Revue des Régions Arides/, 2013,
+     30(1):177--190. [ [[file:bib/GPRF.bib][bib]] ; [[https://www.researchgate.net/profile/Claude_Napoleone/publication/268075060_La_gestion_publique_des_ressources_foncieres_entre_evaluation_de_la_rarete_et_choix_d'usages/links/5460bdd20cf295b5616376de/La-gestion-publique-des-ressources-foncieres-entre-evaluation-de-la-rarete-et-choix-dusages.pdf][file]]\nbsp{}]
 
 ** Other publications
 
    - *Préserver la qualité des sols: Vers un référentiel
-     d’indicateurs.* (avec Isabelle Cousin, Maylis Desrousseaux,
-     Sophie Leenhardt et autres). /Expertise collective INRAE/, 2025,
-     [ [[https://college-de-france.hal.science/hal-04934694/][link]] ]
-   - *Les consommateurs face à l’évolution des Appellations d’Origine
-     Contrôlée* (avec Monia Saïdi, Stéphan Marette and Christophe
-     Martin). /INRAE Sciences Sociales/, 2020, [ [[https://ageconsearch.umn.edu/record/305806][link]] ]
-   - *The drivers of spatial cropping patterns in Burgundy* (with
-     Valentin Bellassen and Mohamed Hilal). /UMR CESAER Working Papers
-     2020-1/, 2020, [ [[https://hal.inrae.fr/hal-02894116][link]] ]
-   - *Sols artificialisés et processus d'artificialisation des sols:
-     déterminants, impacts et leviers d'action* (avec Béatrice Béchet,
-     Yves Le Bissonnais, Anne Ruas, Bertrand Schmitt et autres)
-     /Expertise collective INRA-IFSTTAR/, 2017, [ [[https://www.inrae.fr/actualites/sols-artificialises-processus-dartificialisation-sols][link]] ]
-   - *Improving the estimates of agricultural land valuation: report
-     to the World Bank* (with Philippe Bontems, Raja Chakir and Laure
-     Latruffe). /HAL-01462707/, 2015 [ [[https://hal.archives-ouvertes.fr/hal-01462707][link]] ] 
-   - *La valeur des attributs naturels des terres agricoles de
-     Côte-d'Or* (with Jean-Marc Brayer, Jean Cavailhès, Pierre Curmi,
-     Mohamed Hilal and Marjorie Ubertosi). /CESAER Working Paper
-     2012/, [ [[http://ideas.repec.org/p/ceo/wpaper/33.html][link]] ]
-   - *Hétérogénéité de la terre et rareté économique*. /PhD thesis,
-     Université de Bourgogne/, 2011, [ [[http://tel.archives-ouvertes.fr/tel-00629142/en/][link]] ]
+     d’indicateurs.* (avec Isabelle Cousin, Maylis
+     Desrousseaux, Sophie Leenhardt et autres). /Expertise
+     collective INRAE/, 2025, [ [[https://college-de-france.hal.science/hal-04934694/][link]] ]
+   - *Les consommateurs face à l’évolution des Appellations
+     d’Origine Contrôlée* (avec Monia Saïdi, Stéphan Marette
+     and Christophe Martin). /INRAE Sciences Sociales/,
+     2020, [ [[https://ageconsearch.umn.edu/record/305806][link]] ]
+   - *The drivers of spatial cropping patterns in Burgundy*
+     (with Valentin Bellassen and Mohamed Hilal). /UMR
+     CESAER Working Papers 2020-1/, 2020, [ [[https://hal.inrae.fr/hal-02894116][link]] ]
+   - *Sols artificialisés et processus d'artificialisation
+     des sols: Déterminants, impacts et leviers d'action*
+     (avec Béatrice Béchet, Yves Le Bissonnais, Anne Ruas,
+     Bertrand Schmitt et autres) /Expertise collective
+     INRA-IFSTTAR/, 2017, [ [[https://www.inrae.fr/actualites/sols-artificialises-processus-dartificialisation-sols][link]] ]
+   - *Improving the estimates of agricultural land
+     valuation: Report to the World Bank* (with Philippe
+     Bontems, Raja Chakir and Laure
+     Latruffe). /HAL-01462707/, 2015 [ [[https://hal.archives-ouvertes.fr/hal-01462707][link]] ]
+   - *La valeur des attributs naturels des terres agricoles
+     de Côte-d'Or* (with Jean-Marc Brayer, Jean Cavailhès,
+     Pierre Curmi, Mohamed Hilal and Marjorie
+     Ubertosi). /CESAER Working Paper 2012/, [ [[http://ideas.repec.org/p/ceo/wpaper/33.html][link]] ]
+   - *Hétérogénéité de la terre et rareté économique*. /PhD
+     thesis, Université de Bourgogne/, 2011, [ [[http://tel.archives-ouvertes.fr/tel-00629142/en/][link]] ]
 
 * Communications
 
@@ -308,6 +331,8 @@
 * Other activities
 ** Research programs
 
+   - MORSUR (2026-2029) from /Région Bourgogne Franche-Comté
+     (TRANSBIO)/
    - [[https://www.inrae.fr/en/news/ruralitic-rethinking-european-rural-areas-face-new-realities-challenges-and-transitions][RURALITIC]] (2025-2028) from European Union, /Horizon Europe/
    - [[https://anr.fr/Projet-ANR-23-CE41-0007][OPOSOM]] (2024-2026) from ANR, /Agence Nationale de la Recherche/
    - [[https://anr.fr/Project-ANR-23-CE55-0008][LAMARTINE]] (2023-2026) from ANR, /Agence Nationale de la
@@ -316,7 +341,7 @@
      Vignoble/
    - [[https://ejpsoil.eu/soil-research/serena][SERENA]] (2022-2025) from EJP SOIL, /European Joint Program/
    - [[https://anr.fr/Project-ANR-21-CE03-0007][LOCUS]] (2022-2025) from ANR, /Agence Nationale de la Recherche/
-   - [[https://www.ademe.fr/en/frontpage/][OMISEP]] (2022-2024) from /ADEME/, /Agence de la Transition
+   - [[https://www.ademe.fr/en/frontpage/][OMISEP]] (2022-2024) from ADEME, /Agence de la Transition
      Écologique/
    - [[http://www.ubfc.fr/pubprivlands/][PubPrivLands]] (2019-2021) from /Région Bourgogne Franche-Comté
      (ISIT-BFC)/
@@ -363,6 +388,8 @@
 
    - Coordinator of FAR network about Agricultural and Rural Lands at
      INRAE,
+   - Member of the working group on the wine and grapevine
+     products sector at INRAE,
    - Consultant and Expert for INAO, the French National Institute of
      the Signs of Quality and Origin,
    - Consultant for Inter-Rhône, the organization of wine producers
