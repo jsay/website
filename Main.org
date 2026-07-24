@@ -72,9 +72,9 @@
 * Research interest
 #+Latex: \vspace{.5cm}
 
-  My research combines theoretical and empirical approaches
-  to generate evidence that supports better public
-  policies. I specialize in wine economics and enjoy
+  My research combines economic theory and empirical
+  approaches to generate evidence that supports better
+  public policies. I specialize in wine economics and enjoy
   collaborating across disciplines to address agricultural,
   environmental, and urban challenges.
 #+Latex: \vspace{.5cm}
