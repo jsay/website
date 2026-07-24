@@ -73,10 +73,10 @@
 #+Latex: \vspace{.5cm}
 
   My research combines theoretical and empirical approaches
-  in land economics to generate evidence that supports
-  better public policies. I specialize in wine economics and
-  enjoy collaborating across disciplines to address
-  agricultural, environmental, and urban challenges.
+  to generate evidence that supports better public
+  policies. I specialize in wine economics and enjoy
+  collaborating across disciplines to address agricultural,
+  environmental, and urban challenges.
 #+Latex: \vspace{.5cm}
 
 * Professional experience
@@ -88,6 +88,7 @@
 
 * Education
 
+| July 2026    | *HDR in Economics* at  [[http://en.u-bourgogne.fr/][Université de Bourgogne]]         |
 | 2008 to 2011 | *PhD in Economics* at INRA and [[http://en.u-bourgogne.fr/][Université de Bourgogne]] |
 | 2007 to 2008 | *M.Sc. in Economics* at [[https://www.parisschoolofeconomics.eu/en/][PSE, Paris School of Economics]] |
 | 2005 to 2008 | *M.Sc. in Economics* at [[https://www.amse-aixmarseille.fr/en][Université Aix-Marseille II]]    |
