@@ -72,11 +72,11 @@
 #+Latex: \vspace{.5cm}
 
   My research combines *economic theory* and *empirical
-methods* to generate evidence that supports *better private
-decisions* and *public policies*. I specialize in *wine
-economics* and enjoy collaborating across disciplines to
-address *agricultural*, *environmental*, and *urban*
-outcomes.
+  methods* to generate evidence that supports *private
+  decisions* and *public policies*. I specialize in *wine
+  economics* and enjoy collaborating across disciplines to
+  address *agricultural*, *environmental*, and *urban*
+  outcomes.
 #+Latex: \vspace{.5cm}
 
 * Professional experience
